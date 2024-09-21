@@ -1,9 +1,23 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Coordination du projet  
+claire@lapalette.org
 
-L'Échappée Belle est actuellement composée de 6 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Programmation artistique et contact festival  
+chloe@lapalette.org 
+
+
+Micro-brasserie  
+anais@lapalette.org  
+agathe@lapalette.org  
+
+
+
+
+La Palette  
+3 route de Frencq  
+62630 Longvilliers 
