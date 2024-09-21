@@ -1,6 +1,6 @@
 ---
 title: "Historique"
-order: 3
+order: 4
 in_menu: true
 ---
 La mémoire de notre lieu ...
