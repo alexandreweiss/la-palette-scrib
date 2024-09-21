@@ -20,7 +20,7 @@ Tous les concerts et spectacles sont prix libre🤩
 
 Spectacle éveil musical très jeune public de 0 à 3 ans.
 
-Jauge limitée à 6 enfants.
+<span style="color:red">Jauge limitée à 6 enfants</span>
 <br><br>
 
 **_11h30 - Méchant !_**
@@ -38,7 +38,7 @@ Marionnettes
 
 Tout public à partir de 8 ans
 
-Jauge limitée à 30 pers
+<span style="color:red">Jauge limitée à 30 personnes</span>
 <br><br>
 
 **_15h - Santa Pulcinella_**
@@ -62,8 +62,6 @@ Tout public
 DJ SET
 
 Tout public
-
-![DJ Set Velour 808]({% link images/dj-set-velour-small.jpg %})
 <br><br>
 
 ### 🤹‍♀️ATELIERS
@@ -129,3 +127,5 @@ Suite aux inondations de l'hiver 2023/2024, le cercle des Tiers-Lieux du littora
 ![Marionnettes]({% link images/santa-pulcinella-small.jpg %})
 
 ![Bal Trad]({% link images/bal-trad-small.jpg %}) 
+
+![DJ Set Velour 808]({% link images/dj-set-velour-small.jpg %}) 
