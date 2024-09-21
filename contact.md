@@ -3,15 +3,18 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-Coordination du projet  
+**Coordination du projet**
+
 claire@lapalette.org
 
 
-Programmation artistique et contact festival  
+**Programmation artistique et contact festival**
+
 chloe@lapalette.org 
 
 
-Micro-brasserie  
+**Micro-brasserie**
+
 anais@lapalette.org  
 agathe@lapalette.org  
 
