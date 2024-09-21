@@ -9,6 +9,6 @@ Pour les évènements ayant lieu un mardi, l'espace ouvre quand même ses portes
 
 
 _RDV à venir :_
-> **le samedi 28 septembre** pour le festival annuel de la Palette "des palettes plein les yeux"
+**le samedi 28 septembre** pour le festival annuel de la Palette "des palettes plein les yeux"
 ![Festival 2024 recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
 ![Festival 2024 verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
