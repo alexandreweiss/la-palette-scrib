@@ -5,6 +5,10 @@ in_menu: true
 ---
 La mémoire de notre lieu ...
 
+**samedi 28 septembre** Festival annuel de la Palette "des palettes plein les yeux"
+![Festival 2024 recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
+![Festival 2024 verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
+
 **mardi 30 juillet à 19h30** : concert des King Pepper
 ![King Pepper le 30 juillet 19h30]({% link images/kingpepper.jpg %})
 
