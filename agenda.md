@@ -3,12 +3,12 @@ title: "Agenda"
 order: 3
 in_menu: true
 ---
-Le **bar éphémère** de la Palette est ouvert tous les mardis de 18h à 22h !!
-
-Pour les évènements ayant lieu un mardi, l'espace ouvre quand même ses portes à partir de 18h.
+Réouverture le Samedi 12 avril 2025 avec un super programme !
 
 
-_RDV à venir :_
-**le samedi 28 septembre** pour le festival annuel de la Palette "des palettes plein les yeux"
-![Festival 2024 recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
-![Festival 2024 verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
+Pendant ce temps, le lieu de la Palette est en sommeil durant l'hiver mais nous participons à l'organisation de certains évènements aux alentours organisés par La Plume à Loup, la Maison des Faiseurs, De rives en rêves, le Tiers Lieu Nourricier du Boulonnais, etc ...
+
+
+Le **bar éphémère** de la Palette reprendra son activité à partir du mardi 3 juin 2025 et sera ouvert tous les mardis de 18h à 22h !!
+
+A très bientôt ! 
