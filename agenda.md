@@ -3,12 +3,30 @@ title: "Agenda"
 order: 3
 in_menu: true
 ---
-Réouverture le Samedi 12 avril 2025 avec un super programme !
+✨ La Palette ouvre sa saison 2025 en beauté ! ✨
+<br><br><br><br>
+🥕**Le 12 avril**, vient fêter le printemps avec nous !
+<br><br><br><br>
+📅 **Dès 14h**, marché de produits locaux
 
+ Venez rencontrer les entrepreneurs locaux et découvrir les saveurs de la région.  🥦🥒
 
-Pendant ce temps, le lieu de la Palette est en sommeil durant l'hiver mais nous participons à l'organisation de certains évènements aux alentours organisés par La Plume à Loup, la Maison des Faiseurs, De rives en rêves, le Tiers Lieu Nourricier du Boulonnais, etc ...
+ 
 
+Stand de Maquillage pour les enfants.
+<br><br><br><br>
+🎭 Spectacles
 
-Le **bar éphémère** de la Palette reprendra son activité à partir du mardi 3 juin 2025 et sera ouvert tous les mardis de 18h à 22h !!
+**14h à 18h**   Petit Opera Mobile de la Note Bleue
 
-A très bientôt ! 
+**16h** Moi aussi de La cie Un Loup Pour L’Homme
+<br><br><br><br>
+🌟 **À partir de 19h**, viens danser avec le Bal de Zaraf Guili ! 🌟
+
+🕺💃🕺💃
+
+ 
+
+🎉 Buvette et restauration sur place ! 🌿🎶
+<br><br><br><br>
+ ![affiche-bal-2025]({% link images/affiche-bal-avril-2025.jpg %}) 
