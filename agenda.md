@@ -29,4 +29,4 @@ Stand de Maquillage pour les enfants.
 
 🎉 Buvette et restauration sur place ! 🌿🎶
 <br><br><br><br>
- ![affiche-bal-2025]({% link images/affiche-bal-avril-2025.jpg %}) 
+ ![affiche-bal-2025]({% link images/affiche-bal-avril-2025-small.png %}) 
