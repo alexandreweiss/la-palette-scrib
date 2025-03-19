@@ -6,7 +6,7 @@ in_menu: true
 **Les événements à venir**
 <br><br>
 
-<a href="agenda.html"><img src="images/logo-aviatrix-registered-small.jpg"/>
+<a href="agenda.html"><img src="https://www.lapalette.org/images/affiche-bal-avril-2025-small.png" alt="Affiche Bal 2025" />
 </a>
 
 
