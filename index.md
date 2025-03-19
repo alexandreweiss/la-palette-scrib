@@ -3,7 +3,14 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-**Les événements à venir**, <a href="agenda.html">c'est tout de suite par ici</a>
+**Les événements à venir**
+<br><br>
+
+<a href="agenda.html"><img src="images/logo-aviatrix-registered-small.jpg"/>
+</a>
+
+
+<br><br>
 
 La Palette est installée dans un corps de ferme au cœur du village de Longvilliers.
 On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
