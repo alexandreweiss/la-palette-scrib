@@ -6,10 +6,8 @@ in_menu: true
 **Les événements à venir**
 <br><br>
 
-<a href="agenda.html"><img src="https://www.lapalette.org/images/affiche-bal-avril-2025-small.png" alt="Affiche Bal 2025" />
+<a href="agenda.html"><img src="https://www.lapalette.org/images/affiche-bal-avril-2025-super-small.png" alt="Affiche Bal 2025" />
 </a>
-
-
 <br><br>
 
 La Palette est installée dans un corps de ferme au cœur du village de Longvilliers.
