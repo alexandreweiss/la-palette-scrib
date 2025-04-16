@@ -14,7 +14,7 @@ pour boire un verre ...
 <br>
 pour manger une frite avec un bon houmous ...
 <br><br>
-Les mardis où le bar accueil une activité:
+Les mardis où le bar accueille une activité:
 <br><br>
 **- 29 avril** : Jeux d'expression<br>
 **- 6 mai** : KARAOKE<br>
