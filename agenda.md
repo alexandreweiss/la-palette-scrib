@@ -5,7 +5,8 @@ in_menu: true
 ---
 ✨ La Palette ouvre sa saison 2025 en beauté ! ✨
 <br><br>
-Merci d'être venu nombreux le 12 avril pour fêter le printemps 🥕 avec nous !
+Merci d'être venu nombreux le 12 avril pour fêter le printemps 🥕 avec nous !<br>
+<img src="images/photo-12avril.jpg" alt="le 12 avril" width="200" height="150">
 <br><br>
 Bonne nouvelle : reprise du bar éphémère **tous les mardis soir de 18h à 22h** jusqu'à fin septembre.
 <br><br>
