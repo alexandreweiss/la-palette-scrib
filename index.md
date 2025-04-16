@@ -5,7 +5,7 @@ in_menu: true
 ---
 **Les événements à venir** <a href="agenda.html">c'est par ici</a>
 <br>
-![Logo La Palette]({% link images/palette-logo-noir.png %})
+![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
 
 La Palette est installée dans un corps de ferme au cœur du village de Longvilliers.
