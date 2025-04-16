@@ -5,6 +5,8 @@ in_menu: true
 ---
 La mémoire de notre lieu ...
 
+**samedi 12 avril 2025** La fête du Printemps ![affiche-bal-2025]({% link images/affiche-bal-avril-2025-small.png %})
+
 **samedi 28 septembre** Festival annuel de la Palette "des palettes plein les yeux"
 ![Festival 2024 recto]({% link images/affiche-DPPLY-2024-recto.jpg %})
 ![Festival 2024 verso]({% link images/affiche-DPPLY-2024-verso-v2.jpg %}) 
