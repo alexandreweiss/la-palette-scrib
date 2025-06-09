@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-**Les événements à venir** <a href="agenda.html">c'est par ici</a>
+**Les événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-1971?e=202a69079a" target="_blank">c'est dans la newsletter</a>
 <br>
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
