@@ -51,7 +51,7 @@ Cette personne devra s’assurer de la coordination et de la réelle prise en co
 <br>
 <br>
 
-1. Gestion et aménagement du lieu
+1 Gestion et aménagement du lieu
 
 Veiller à l’entretien courant des espaces intérieurs et extérieurs de La Palette
 
@@ -62,7 +62,7 @@ Assurer la coordination des travaux et la mise en conformité du lieu, notamment
 <br>
 
 
-2. Planification et logistique des activités
+2 Planification et logistique des activités
 
 Coordonner le planning des activités et l’utilisation des espaces
 
@@ -72,7 +72,7 @@ Coordonner les bénévoles pour assurer le bon déroulement des activités
 <br>
 <br>
 
-3. Gouvernance et prise de décision collective
+3 Gouvernance et prise de décision collective
 
 Assurer la bonne circulation des informations entre les différents cercles de gouvernance et les bénévoles
 
@@ -80,7 +80,7 @@ Veiller à la mise en application des décisions collectives
 <br>
 <br>
 
-4. Recherche de financements et suivi des subventions
+4 Recherche de financements et suivi des subventions
 
 Assurer une veille sur les opportunités de financements publics et privés
 
@@ -90,7 +90,7 @@ Travailler en lien avec le CA pour assurer la pérennité économique du projet
 <br>
 <br>
 
-5. Gestion administrative
+5 Gestion administrative
 
 Gérer les adhésions et le suivi des cotisations
 
@@ -101,7 +101,7 @@ Assurer le suivi budgétaire et la gestion financière en lien avec le CA
 <br>
 
 
-6. Représentation et communication interne et externe
+6 Représentation et communication interne et externe
 
 Représenter La Palette auprès des partenaires institutionnels et associatifs
 
@@ -168,4 +168,4 @@ CV et lettre de motivation à l’attention des membres du collectif de La Palet
 
 par courrier à : 
 Association pour La Palette - 3 route de Frencq - 62630 Longvilliers ,
-ou par mail à : claire@lapalette.org 
+ou par mail à : claire[@]lapalette.org 
