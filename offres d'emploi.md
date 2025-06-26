@@ -14,7 +14,6 @@ Coordinateur-trice
 
 Salaire : 2124€ Brut / mois.
 
-Prise du poste à partir du 15 juillet 2025
 <br>
 <br>
 
