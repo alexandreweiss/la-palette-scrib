@@ -3,9 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v23.0"></script>
-
 **Les événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-1971?e=202a69079a" target="_blank">c'est dans la newsletter</a>
 <br>
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
@@ -26,7 +23,11 @@ A terme, La Palette souhaite devenir un lieu hybride où l’on viendra pour tra
 
 …A suivre…
 
-<div class="fb-page" data-href="https://www.facebook.com/profile.php?id=100090895787563" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/profile.php?id=100090895787563" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/profile.php?id=100090895787563">La Palette - Longvilliers 62</a></blockquote></div>
+<div class="fb-page" 
+data-href="https://www.facebook.com/profile.php?id=100090895787563"
+data-width="380" 
+data-hide-cover="false"
+data-show-facepile="false"></div>
 
 ![Concert]({% link images/la-palette-preau.jpeg %})
 
