@@ -6,7 +6,7 @@ in_menu: true
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v23.0"></script>
 
-**Les événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-1971?e=202a69079a" target="_blank">c'est dans la newsletter</a>
+**Les événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2032?e=202a69079a" target="_blank">c'est dans la newsletter</a>
 <br>
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
