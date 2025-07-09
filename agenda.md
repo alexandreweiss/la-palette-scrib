@@ -14,8 +14,7 @@ pour boire un verre ...
 <br>
 pour manger une frite avec un bon houmous ...
 <br><br>
-![Programme Palette 1]({% link images/programme-1-2025.jpg %})
+![Programme Palette Juillet]({% link images/programme-juillet-2025.jpg %})
 <br>
-![Programme Palette 2]({% link images/programme-2-2025.jpg %})
 
 Notre festival "des palettes plein les yeux" 🎉🌿🎶 le **weekend des 27 et 28 septembre**. 
