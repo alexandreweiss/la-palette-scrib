@@ -3,11 +3,6 @@ title: "Agenda"
 order: 3
 in_menu: true
 ---
-✨ La Palette ouvre sa saison 2025 en beauté ! ✨
-<br><br>
-Merci d'être venu nombreux le 12 avril pour fêter le printemps 🥕 avec nous !<br>
-![Photo du 12 avril]({% link images/photo-12avril.jpg %})
-<br><br>
 Bonne nouvelle : reprise du bar éphémère **tous les mardis soir de 18h à 22h** jusqu'à fin septembre.
 <br><br>
 pour boire un verre ...
@@ -15,6 +10,11 @@ pour boire un verre ...
 pour manger une frite avec un bon houmous ...
 <br><br>
 ![Programme Palette Juillet]({% link images/programme-juillet-2025.jpg %})
+<br>
+
+**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2032?e=202a69079a" target="_blank">c'est dans la newsletter</a>
+<br>
+![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
 
 Notre festival "des palettes plein les yeux" 🎉🌿🎶 le **weekend des 27 et 28 septembre**. 
