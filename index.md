@@ -11,7 +11,7 @@ in_menu: true
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
 
-**Changement de dernière minute : c'est ce soir MARDI 15 JUILLET : Jeanette !**
+**Changement de dernière minute : c'est ce soir MARDI 15 JUILLET : Jeannette !**
 
 18h : ouverture du lieu
 20h : le concert
