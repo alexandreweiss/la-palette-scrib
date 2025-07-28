@@ -11,16 +11,6 @@ in_menu: true
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
 
-**Off Rock en Stock à la Palette - Mardi 22 juillet**
-
-18h - Ouverture du lieu
-
-20h - Concert **Bleu pétrole** et **Terrain vague**
-
-<a href="https://www.facebook.com/events/1125913702681937" target="_blank">
-  <img src="{% link images/rock-en-stock-monte-le-son.jpg %}" alt="Affiche Rock en Stock">
-</a>
-
 La Palette - 3 route de Frencq - 62630 Longvilliers
 
 ![Programme Palette Juillet]({% link images/programme-juillet-2025.jpg %})
