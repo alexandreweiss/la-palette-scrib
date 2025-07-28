@@ -5,6 +5,10 @@ in_menu: true
 ---
 La mémoire de notre lieu ...
 
+**mardi 22 juillet** Bleu Pétrol et Terrain vague
+
+![Affiche Rock en Stock]({% link images/rock-en-stock-monte-le-son.jpg %})
+
 **mardi 15 juillet 2025** Jeannette et Mise à jour (@jeannette_lsr @maj.production sur insta)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0feb5Z65Z2xiuSVEELF5r8EiwD42uYMrzcz56gUxVVvTNxqPWjKjaqZrjyfWQDJZkl%26id%3D100090895787563&show_text=true&width=500" width="500" height="526" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
