@@ -6,14 +6,14 @@ in_menu: true
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v23.0"></script>
 
-**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2032?e=202a69079a" target="_blank">c'est dans la newsletter</a>
+**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2171?e=202a69079a" target="_blank">c'est dans la newsletter</a>
 <br>
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
 
 La Palette - 3 route de Frencq - 62630 Longvilliers
 
-![Programme Palette Juillet]({% link images/programme-juillet-2025.jpg %})
+![Programme Palette Juillet]({% link images/programme-aout-2025.jpg %})
 <br>
 
 La Palette est installée dans un corps de ferme au cœur du village de Longvilliers.
