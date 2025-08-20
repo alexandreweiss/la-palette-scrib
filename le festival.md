@@ -3,6 +3,17 @@ title: "Le Festival"
 order: 3
 in_menu: true
 ---
+# _Des palettes plein les yeux_  
+
+🤩 **Rendez-vous les 27 et 28 septembre 2025**  
+pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!  
+
+---
+
+![Affiche du festival]({% link images/PALETTESPLEINLESYEUX-Vinternet.jpeg %})  
+
+---
+
 ## 🎶🥳 Spectacles et concerts  
 
 ### 📅 Samedi 27 septembre
@@ -67,7 +78,7 @@ in_menu: true
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 
   <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="{% link images/declics-art-tout-chaud.jpg %}" alt="Cie Art Tout Chaud" style="width:100%; border-radius: 8px;">
+    <img src="{% link images/DSCF7038.jpg-2 - copie.jpg %}" alt="Cie Art Tout Chaud" style="width:100%; border-radius: 8px;">
   </div>
 
   <div style="flex: 1;">
