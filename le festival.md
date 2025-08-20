@@ -40,3 +40,32 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 -  🍻🥙 Bar et restauration sur place  
 
 --- 
+
+### 🎠 Manège du Contrevent  
+*Cie Grandet Douglas*  
+
+![Cie Grandet Douglas]({% link images/grandet-douglas.jpg %})  
+
+Le Contrevent est une balance, mettant en équilibre un piano et un tapis volant.  
+Le manège est un appel à l'imaginaire, à la rêverie douce, à la magie d'apesanteur.  
+C'est aussi le jeu de la recherche de l'équilibre, de la stabilité, c'est fragile et hypnotique.  
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/OWNU5AgLKx4" frameborder="0" allowfullscreen></iframe>  
+
+---
+
+### 📸 DéCLICS  
+*Cie Art Tout Chaud*  
+
+![Cie Art Tout Chaud]({% link images/DSCF7038.jpg-2 - copie.jpg %})  
+
+Ce nouveau rendez-vous de la compagnie ART TOUT CHAUD invite le public à venir photographier ses rêves, mettre en lumière ses idées, jouer avec les mots, les objets, les matières pour en faire une image, pas très sage, un photomontage, à l’ancienne !  
+
+Grâce à leur Petit Théâtre Photographique, chacun peut se mettre en scène : maître à bord, créateur, personnage principal, décorateur…  
+Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine la vie en noir et blanc, on marche dans les pas des surréalistes et on ouvre la porte à la poésie.  
+
+Ce dispositif scénique de rue joue sur toutes les faces du camion : sur les côtés pour la prise de vue et le choix des objets, à l’arrière pour les espaces de construction, et à l'intérieur « la chambre noire » où l'on photographie la maquette.  
+
+**Durée :** 30 à 45 minutes, par groupe de 6 personnes, avec exposition des clichés réalisés au fil de la journée.  
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/Yrvs308uBKk" frameborder="0" allowfullscreen></iframe> 
