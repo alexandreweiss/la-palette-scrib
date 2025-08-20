@@ -1,5 +1,5 @@
 ---
-title: "Des Palettes Plein Les Yeux"
+title: "Le Festival"
 order: 2
 in_menu: true
 ---
