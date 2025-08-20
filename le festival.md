@@ -57,7 +57,7 @@ C'est aussi le jeu de la recherche de l'équilibre, de la stabilité, c'est frag
 ### 📸 DéCLICS  
 *Cie Art Tout Chaud*  
 
-![Cie Art Tout Chaud]({% link images/DSCF7038.jpg-2 - copie.jpg %})  
+![Declic]({% link images/DSCF7038.jpg %}) 
 
 Ce nouveau rendez-vous de la compagnie ART TOUT CHAUD invite le public à venir photographier ses rêves, mettre en lumière ses idées, jouer avec les mots, les objets, les matières pour en faire une image, pas très sage, un photomontage, à l’ancienne !  
 
