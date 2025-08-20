@@ -5,17 +5,16 @@ in_menu: true
 ---
 # _Des palettes plein les yeux_ 
 
-🤩  Les 27 et 28 septembre 2025 se tiendra la 3eme édition du festival des Palettes Plein les Yeux avec une super programmation !! 
+🤩  RDV les 27 et 28 septembre 2025 pour la 3eme édition du festival des Palettes Plein les Yeux !! 
 
 ![Texte décrivant l'image]({% link images/PALETTESPLEINLESYEUX-Vinternet.jpeg %})
 
-🤩 RDV le 27 et 28 septembre pour Des Palettes Plein Les Yeux #3
-🍻🍟Bar et restauration sur place
+
 
 🎶🥳SPECTACLES ET CONCERTS :
 
 27 SEPTEMBRE
-* à partir de 14h30 - Manege du Contrevent - Cie Grandet Douglas
+* à partir de 14h30 - Manège du Contrevent - Cie Grandet Douglas
 tout public
 * à partir de 14h30 - Déclics - Cie Art Tout Chaud
 tout public
@@ -25,17 +24,18 @@ tout public
 * 19h - le Bal Saint Louis - Big Joanna
 
 28 SEPTEMBRE
-* 14h - Manege du Contrevent - Cie Grandet Douglas
+* 14h - Manège du Contrevent - Cie Grandet Douglas
 * 14h30 et 16h - Tine et les Chaussettes Rouges - Cie la Main à la Pâte
 Jeune public
-*15h30 - Zonardes - Labo Compagnie
+* 15h30 - Zonardes - Labo Compagnie
 * 16h30 - Kerchanga
 
 
 TOUT LE WEEK-END :
-💄 Ateliers maquillage par Vanessa.
-🐸 Atelier Origami
-🖼️ Atelier Serigraphie
+* 🖼️ Exposition des oeuvres de Loup Blaster 
+* 💄 Ateliers maquillage par Vanessa.
+* 🐸 Atelier Origami
+* 🖼️ Atelier Serigraphie
 
-EXPOSITION :
-🖼️ Loup Blaster 
+
+🍻🍟Bar et restauration sur place 
