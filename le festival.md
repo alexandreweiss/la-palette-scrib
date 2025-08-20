@@ -59,12 +59,12 @@ C'est aussi le jeu de la recherche de l'équilibre, de la stabilité, c'est frag
 
 ![Declic]({% link images/DSCF7038.jpg %}) 
 
-Ce nouveau rendez-vous de la compagnie ART TOUT CHAUD invite le public à venir photographier ses rêves, mettre en lumière ses idées, jouer avec les mots, les objets, les matières pour en faire une image, pas très sage, un photomontage, à l’ancienne !  
+Déclics vous invite le public à venir photographier ses rêves, mettre en lumière ses idées, jouer avec les mots, les objets, les matières pour en faire une image, pas très sage, un photomontage, à l’ancienne !  
 
 Grâce à leur Petit Théâtre Photographique, chacun peut se mettre en scène : maître à bord, créateur, personnage principal, décorateur…  
 Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine la vie en noir et blanc, on marche dans les pas des surréalistes et on ouvre la porte à la poésie.  
 
-Ce dispositif scénique de rue joue sur toutes les faces du camion : sur les côtés pour la prise de vue et le choix des objets, à l’arrière pour les espaces de construction, et à l'intérieur « la chambre noire » où l'on photographie la maquette.  
+
 
 **Durée :** 30 à 45 minutes, par groupe de 6 personnes, avec exposition des clichés réalisés au fil de la journée.  
 
