@@ -1,5 +1,5 @@
 ---
-title: "Le festival"
+title: "Des Palettes Plein Les Yeux"
 order: 2
 in_menu: true
 ---
@@ -14,20 +14,21 @@ in_menu: true
 🎶🥳SPECTACLES ET CONCERTS :
 
 27 SEPTEMBRE
-* à partir de 14h30 - Manège du Contrevent - Cie Grandet Douglas
+* à partir de 14h30 - Manège du Contrevent - _Cie Grandet Douglas_
 tout public
-* à partir de 14h30 - Déclics - Cie Art Tout Chaud
+* à partir de 14h30 - Déclics - _Cie Art Tout Chaud_
 tout public
-* 16h30 - Digitôle - Cie Les trébuchés
+* 16h30 - Digitôle - _Cie Les trébuchés_
 tout public
-* 18h30 - Badass - Cie Fais le Moi-Même
-* 19h - le Bal Saint Louis - Big Joanna
+* 18h30 - Badass - _Cie Fais le Moi-Même_
+* 19h - Shake that thing - _Big Joanna_
+* 21h30 - DJ set Loup Blaster
 
 28 SEPTEMBRE
-* 14h - Manège du Contrevent - Cie Grandet Douglas
-* 14h30 et 16h - Tine et les Chaussettes Rouges - Cie la Main à la Pâte
+* 14h - Manège du Contrevent - _Cie Grandet Douglas_
+* 14h30 et 16h - Tine et les Chaussettes Rouges - _Cie la Main à la Pâte_
 Jeune public
-* 15h30 - Zonardes - Labo Compagnie
+* 15h30 - Zonardes - _Labo Compagnie_
 * 16h30 - Kerchanga
 
 
