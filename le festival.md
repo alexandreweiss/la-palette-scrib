@@ -37,9 +37,6 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 - 💄 Ateliers maquillage par **Vanessa**  
 - 🐸 Atelier **Origami**  
 - 🖌️ Atelier **Sérigraphie**  
-
----
-
-## 🍻🥙 Bar et restauration sur place  
+-  🍻🥙 Bar et restauration sur place  
 
 --- 
