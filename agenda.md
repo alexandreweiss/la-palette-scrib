@@ -1,6 +1,6 @@
 ---
 title: "Agenda"
-order: 3
+order: 2
 in_menu: true
 ---
 Bonne nouvelle : reprise du bar éphémère **tous les mardis soir de 18h à 22h** jusqu'à fin septembre.
