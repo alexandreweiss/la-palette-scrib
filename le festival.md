@@ -90,4 +90,4 @@ Big Joanna aime la sueur et les cocktails, le rock et le voodoo !
 Guincher façon caribéenne et s'enivrer à l'Éthio-Jazz. Sur scène, les musiciens font vibrer l’espace comme un seul corps, d’une seule voix, pour conjurer le mauvais sort. Mais ce qu'ils chérissent par-dessus tout, c'est sentir le public céder à l'envoutement de la danse, l’ensauvagement des corps. Avec « Shake that thing !» la fanfare Big Joanna nous montre une nouvelle fois qu'elle se sent bien sur le bitume comme sur scène et qu’elle aime le partager !
  
 
-<iframe width="400" height="225" src="https://youtu.be/KB-ToIlrs_c?feature=shared" frameborder="0" allowfullscreen></iframe> 
+<iframe width="400" height="225" src="https://youtu.be/KB-ToIlrs_c?si=jPPYfb-DBYY6ikvO" frameborder="0" allowfullscreen></iframe> 
