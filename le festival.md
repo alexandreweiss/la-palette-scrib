@@ -68,12 +68,26 @@ Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine 
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Yrvs308uBKk" frameborder="0" allowfullscreen></iframe> 
 
-### 📸 Digitole 
-*Cie Les trébuchés*  
+### 📸 BADASS
+*Cie Fais le Moi-Même*  
 
-DiGiTÔLE est un spectacle de rue, tout public. Du jonglage, aux essences techno, burlesque et chorégraphique, inspiré du monde digital. Trois jongleurs et un musicien (live machine).
+Chorale de meufs pour prendre de la place et donner de la force - : 
+ 
+"Badass. adj.
+se dit d'une femme audacieuse, subversive, qui ne s'excuse pas d'être qui elle est." Neige Sinno
+ 
+Badass est née en septembre 2024, sous la direction artistique de la chanteuse et cheffe de chœur Chloé Thorey,
+Badass donne à entendre en français, en anglais, en espagnol, en italien, en farsi, des chants du répertoire contemporain mais aussi dans des chants traditionnels, des hymnes, de partout où les meufs ont besoin d’être ensemble pour crier, chanter et se donner de la force.
+​
+Chanter ensemble est une expérience à la fois révolutionnaire et physique. Le chœur produit une vibration collective qui favorise la sécrétion d’endorphines. Le partage amplifie le bien-être du cerveau déchargé des hormones du stress.
+ 
+Un chœur de femmes pour se retrouver, pour chanter ensemble, pour expérimenter l’harmonie vocale et la puissance du chant choral
 
-45 minutes de délire électronique, jonglé et dansé. Comme une célébration, une invitation à appuyer sur l’interrupteur du sensible, se connecter au vivant… 
-  
+### Shake that Thing 
+*Big Joanna*  
 
-<iframe width="400" height="225" src="https://youtu.be/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe> 
+Big Joanna aime la sueur et les cocktails, le rock et le voodoo ! 
+Guincher façon caribéenne et s'enivrer à l'Éthio-Jazz. Sur scène, les musiciens font vibrer l’espace comme un seul corps, d’une seule voix, pour conjurer le mauvais sort. Mais ce qu'ils chérissent par-dessus tout, c'est sentir le public céder à l'envoutement de la danse, l’ensauvagement des corps. Avec « Shake that thing !» la fanfare Big Joanna nous montre une nouvelle fois qu'elle se sent bien sur le bitume comme sur scène et qu’elle aime le partager !
+ 
+
+<iframe width="400" height="225" src="https://youtu.be/KB-ToIlrs_c?feature=shared" frameborder="0" allowfullscreen></iframe> 
