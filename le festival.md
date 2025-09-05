@@ -13,7 +13,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 ![Affiche du festival]({% link images/PALETTESPLEINLESYEUX-Vinternet.jpeg %})  
 
 ---
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
