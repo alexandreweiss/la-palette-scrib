@@ -12,7 +12,7 @@ pour manger une frite avec un bon houmous ...
 ![Programme Palette Juillet]({% link images/programme-juillet-2025.jpg %})
 <br>
 
-**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2032?e=202a69079a" target="_blank">c'est dans la newsletter</a>
+**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">c'est dans la newsletter</a>
 <br>
 ![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
 <br>
