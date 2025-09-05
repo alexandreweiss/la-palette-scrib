@@ -93,7 +93,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 
   <div class="event">
     <strong>14h00 – Manège du Contrevent</strong> – Cie Grandet Douglas  
-    <p>(➡️ Texte déjà plus haut, tu peux le répéter si tu veux garder cohérence.)</p>
+    <p>(➡️ voir samedi)</p>
   </div>
 
   <div class="event">
