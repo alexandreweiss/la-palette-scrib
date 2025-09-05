@@ -51,16 +51,17 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
     <iframe width="400" height="225" src="https://www.youtube.com/embed/Yrvs308uBKk" frameborder="0" allowfullscreen></iframe>
   </div>
 
-  <div class="event">
-    <strong>16h30 – Digitôle</strong> – Cie Les trébuchés (tout public)  
-    <p>
+<div class="event">
+  <strong>16h30 – Digitôle</strong> – Cie Les trébuchés (tout public)  
+  <p>DiGiTÔLE est un spectacle de rue, tout public.  
+  Du jonglage, aux essences techno, burlesque et chorégraphique, inspiré du monde digital.  
+  Trois jongleurs et un musicien (live machine).</p>
+  <p>45 minutes de délire électronique, jonglé et dansé.  
+  Comme une célébration, une invitation à appuyer sur l’interrupteur du sensible, se connecter au vivant…</p>
+  <iframe width="400" height="225" src="https://www.youtube.com/embed/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe>
+</div>
 
-DiGiTÔLE est un spectacle de rue, tout public. Du jonglage, aux essences techno, burlesque et chorégraphique, inspiré du monde digital. Trois jongleurs et un musicien (live machine).
-45 minutes de délire électronique, jonglé et dansé. Comme une célébration, une invitation à appuyer sur l’interrupteur du sensible, se connecter au vivant… 
-</p>
-<iframe width="400" height="225" src="https://youtu.be/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe>
 
-  </div>
 
   <div class="event">
     <strong>18h30 – BADASS</strong> – Cie Fais le Moi-Même  
