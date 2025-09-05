@@ -137,3 +137,11 @@ Dépourvu de toute occupation ou divertissement extérieur, l’individu est seu
 C’est aussi l’idée qu’on est soi même source de potentiel à exploiter. On peut choisir de vivre à travers ce que les autres projettent sur nous ou d’aller à la rencontre de soi et de faire exister ce qu’on est à l’intérieur.
 
 <iframe width="400" height="225" src="https://youtu.be/vB-rjsZ7fy0" frameborder="0" allowfullscreen></iframe> 
+
+
+###KERCHANGA
+
+Kerchanga, un duo franco-polonais qui fusionne les rythmes envoûtants de musiques traditionnelles africaines
+avec des sonorités modernes de rock et d'électronique.
+
+Grâce au live looping, aux beats hypnotiques, et à une énergie scénique contagieuse, leur complicité plonge le public dans une expérience musicale unique, entre danse et émotion. 
