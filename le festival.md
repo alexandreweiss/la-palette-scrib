@@ -53,11 +53,11 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 
   <div class="event">
     <strong>16h30 – Digitôle</strong> – Cie Les trébuchés (tout public)  
-    <p>(
+    <p>
 
 DiGiTÔLE est un spectacle de rue, tout public. Du jonglage, aux essences techno, burlesque et chorégraphique, inspiré du monde digital. Trois jongleurs et un musicien (live machine).
 45 minutes de délire électronique, jonglé et dansé. Comme une célébration, une invitation à appuyer sur l’interrupteur du sensible, se connecter au vivant… 
-)</p>
+</p>
 <iframe width="400" height="225" src="https://youtu.be/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe>
 
   </div>
