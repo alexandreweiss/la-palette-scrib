@@ -120,3 +120,20 @@ Musique : Antonin Carette et Hugo Bricout
   
 
 <iframe width="400" height="225" src="https://youtu.be/IeaAIQQjJL8" frameborder="0" allowfullscreen></iframe> 
+
+
+###ZONARDES
+*Labo compagnie*
+
+Seules, au milieu d’un plateau quasiment vide, le temps passe et rythme la pièce mais nos “Zonardes” restent au milieu de leur no man’s land urbain.
+
+Seules, ou plutôt avec l’autre qui l’accompagne, tout le temps, toujours. Embourbées dans l’attente de quelque chose ou de quelqu’un.
+
+«On attend quoi ? Bah on attend Godu. Mais Godu ne vient pas !» Et c’est là que tout se joue. Puisqu’il faut attendre, il faut tuer le temps, faire face à l’ennui, à la solitude, à l’autre.
+Ce temps suspendu ramène nos deux vagabondes à leur essence profonde. Alors que l’attente devient la principale raison d’être sur scène, nos protagonistes, à l’écart d’une société où tout va de plus en plus vite se retrouvent malgré elles face à un nouveau possible : celui de l’introspection intérieure.
+L’ennui se présente comme source de possibles, de découvertes et de créativité. Il transcende le geste quotidien en mouvement dansé.
+Dépourvu de toute occupation ou divertissement extérieur, l’individu est seul face à lui-même. Il expérimente tel un enfant et se révèle dans un parcours initiatique dont il n’a même pas conscience. L’émerveillement du moindre geste, du moindre regard, complice ou non est digne d’une maladresse enfantine.
+
+C’est aussi l’idée qu’on est soi même source de potentiel à exploiter. On peut choisir de vivre à travers ce que les autres projettent sur nous ou d’aller à la rencontre de soi et de faire exister ce qu’on est à l’intérieur.
+
+<iframe width="400" height="225" src="https://youtu.be/vB-rjsZ7fy0" frameborder="0" allowfullscreen></iframe> 
