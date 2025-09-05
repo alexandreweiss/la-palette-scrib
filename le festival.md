@@ -68,6 +68,7 @@ Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine 
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Yrvs308uBKk" frameborder="0" allowfullscreen></iframe> 
 
+
 ### 📸 BADASS
 *Cie Fais le Moi-Même*  
 
@@ -82,6 +83,7 @@ Badass donne à entendre en français, en anglais, en espagnol, en italien, en f
 Chanter ensemble est une expérience à la fois révolutionnaire et physique. Le chœur produit une vibration collective qui favorise la sécrétion d’endorphines. Le partage amplifie le bien-être du cerveau déchargé des hormones du stress.
  
 Un chœur de femmes pour se retrouver, pour chanter ensemble, pour expérimenter l’harmonie vocale et la puissance du chant choral
+
 
 ### Shake that Thing 
 *Big Joanna*  
@@ -100,6 +102,21 @@ DJ SET A Partir de de 21h20
 
 Loup Blaster est une artiste audiovisuelle, réalisatrice et musicienne originaire de Calais. Formée au cinéma d’animation elle développe un univers poétique et engagé qui traverse les formats : clips, fresques, fanzines, performances live, voix, VJing et DJ sets.
 
-Son travail visuel a accompagné des artistes comme Clap! Clap!, NUMéROBé, Mister Oizo ou encore Jean-Luc Thomas (Waltz for Ukraine), mêlant animation et musique dans des œuvres aussi sensibles que politiques.
-
 Et derrière les platines ? Les DJ sets de Loup Blaster sont à son image : imprévisibles, radicaux, joyeux. Un grand écart assumé entre bass music déviante, happy core ultra euphorique, dembow mutant, donk DIY, ghetto tech ultra physique, et autres pépites sonores venues d’Amérique latine ou des marges électroniques globales. Chaque mix est pensé comme un terrain de jeu et d’émancipation, où le dancefloor devient un espace de glitch, de fête et de friction. 
+
+
+### TINE ET LES CHAUSSETTES ROUGES 
+*CIE LA MAIN A LA PATE*  
+
+Un petit conte marionnettique et illustré sur l’Exil, proposé par la Cie La Main à la Pâte
+Dès 2 ans – 25 min
+Tine c’est une petite fille aux chaussettes rouges qui cultive des tomates dans son jardin et aime se baigner dans la rivière.
+Mais un jour la pluie tarde à revenir et puis finalement ne revient plus du tout.
+Elle quitte alors son jardin et sa maison, elle traverse de multiples paysages visuels et sonores avant de trouver enfin, peut être, un endroit où planter ses graines de tomate.
+—
+Mise en scène et interprétation : Lola Bricout
+Illustrations et décors : Lola Bricout
+Musique : Antonin Carette et Hugo Bricout
+  
+
+<iframe width="400" height="225" src="https://youtu.be/IeaAIQQjJL8" frameborder="0" allowfullscreen></iframe> 
