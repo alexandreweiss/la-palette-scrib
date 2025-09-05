@@ -67,3 +67,13 @@ Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine 
 **Durée :** 30 à 45 minutes, par groupe de 6 personnes, avec exposition des clichés réalisés au fil de la journée.  
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Yrvs308uBKk" frameborder="0" allowfullscreen></iframe> 
+
+### 📸 Digitole 
+*Cie Les trébuchés*  
+
+DiGiTÔLE est un spectacle de rue, tout public. Du jonglage, aux essences techno, burlesque et chorégraphique, inspiré du monde digital. Trois jongleurs et un musicien (live machine).
+
+45 minutes de délire électronique, jonglé et dansé. Comme une célébration, une invitation à appuyer sur l’interrupteur du sensible, se connecter au vivant… 
+  
+
+<iframe width="400" height="225" src="https://youtu.be/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe> 
