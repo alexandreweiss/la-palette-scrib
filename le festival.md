@@ -91,3 +91,15 @@ Guincher façon caribéenne et s'enivrer à l'Éthio-Jazz. Sur scène, les music
  
 
 <iframe width="400" height="225" src="https://youtu.be/KB-ToIlrs_c?si=jPPYfb-DBYY6ikvO" frameborder="0" allowfullscreen></iframe> 
+
+
+### Loup Blaster
+Exposition toute la journée 
+
+DJ SET A Partir de de 21h20
+
+Loup Blaster est une artiste audiovisuelle, réalisatrice et musicienne originaire de Calais. Formée au cinéma d’animation elle développe un univers poétique et engagé qui traverse les formats : clips, fresques, fanzines, performances live, voix, VJing et DJ sets.
+
+Son travail visuel a accompagné des artistes comme Clap! Clap!, NUMéROBé, Mister Oizo ou encore Jean-Luc Thomas (Waltz for Ukraine), mêlant animation et musique dans des œuvres aussi sensibles que politiques.
+
+Et derrière les platines ? Les DJ sets de Loup Blaster sont à son image : imprévisibles, radicaux, joyeux. Un grand écart assumé entre bass music déviante, happy core ultra euphorique, dembow mutant, donk DIY, ghetto tech ultra physique, et autres pépites sonores venues d’Amérique latine ou des marges électroniques globales. Chaque mix est pensé comme un terrain de jeu et d’émancipation, où le dancefloor devient un espace de glitch, de fête et de friction. 
