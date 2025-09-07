@@ -3,9 +3,11 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Au programme ce mois-ci</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
@@ -34,7 +36,7 @@ in_menu: true
   <div class="block">
     <p><strong>Le détail des événements à venir</strong>  
       <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">c'est dans la newsletter</a>
-    </p
+    </p>
     <p>On a plein de belles choses à partager avec vous ce mois-ci ✨</p>
   </div>
 
