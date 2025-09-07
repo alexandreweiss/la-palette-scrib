@@ -29,7 +29,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 </head>
 <body>
 
-  <h1>🎶Programme & Artistes</h1>
+  <h1>🎶Au Programme </h1>
 
   <!-- SAMEDI -->
   <h2>📅 Samedi 27 septembre</h2>
