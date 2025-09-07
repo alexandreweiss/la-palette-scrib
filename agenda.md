@@ -6,7 +6,7 @@ in_menu: true
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Agenda – La Palette</title>
+  <title>Au programme ce mois-ci</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
     h1 { color: #b22222; font-size: 1.8em; margin-bottom: 20px; }
