@@ -5,7 +5,7 @@ in_menu: true
 ---
 **Coordination du projet**
 
-claire@lapalette.org
+maeva@lapalette.org
 
 La Palette  
 3 route de Frencq  
