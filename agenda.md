@@ -8,7 +8,7 @@ in_menu: true
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Au programme ce mois-ci</title>
+  <title>Agenda</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
     h1 { color: #b22222; font-size: 1.8em; margin-bottom: 20px; }
