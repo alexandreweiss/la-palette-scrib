@@ -3,7 +3,6 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -11,7 +10,7 @@ in_menu: true
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
     h1 { color: #b22222; font-size: 1.8em; margin-bottom: 20px; }
-    h2 { color: #444; font-size: 1.3em; margin-top: 0; }
+    h2 { color: #444; font-size: 1.3em; margin-top: 20px; }
     p { margin-bottom: 10px; }
     .block { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-bottom: 25px; }
     ul { margin: 0; padding-left: 20px; }
@@ -35,7 +34,7 @@ in_menu: true
   <div class="block">
     <p><strong>Le détail des événements à venir</strong>  
       <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">c'est dans la newsletter</a>
-    </p>
+    </p
     <p>On a plein de belles choses à partager avec vous ce mois-ci ✨</p>
   </div>
 
@@ -43,16 +42,12 @@ in_menu: true
     <h2>🎉 27 & 28 sept. : Les Palettes Plein les Yeux</h2>
     <p>Deux jours de fête en plein air : concerts, danse, théâtre, ateliers, marché d’artisan·es…  
     et de quoi boire & manger sur place 🍻🍴</p>
-  </div>
 
-  <div class="block">
     <h2>🙌 Envie de filer un coup de main ?</h2>
     <p>Rejoignez l’équipe des bénévoles (accueil, bar, montage, démontage) 👉  
       <a href="https://chat.whatsapp.com/KVI2SSLAlPk50imPG9fZCc?mode=ems_copy_t" target="_blank">lien WhatsApp</a>
     </p>
-  </div>
 
-  <div class="block">
     <h2>🔨 Chantier participatif du 10 au 13 sept. (10h-18h)</h2>
     <p>Même une petite heure c’est précieux… et on partage un bon repas ensemble 🍲</p>
   </div>
