@@ -25,7 +25,7 @@ in_menu: true
 </head>
 <body>
 
-  <h1>📅 Agenda – La Palette</h1>
+  <h1>📅 Au programme ce mois-ci</h1>
 
   <div class="block">
     <p><strong>Bonne nouvelle :</strong> le bar éphémère est ouvert <strong>tous les mardis soir de 18h à 22h</strong> jusqu'à fin septembre.</p>
