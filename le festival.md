@@ -35,7 +35,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
   <h2>📅 Samedi 27 septembre</h2>
 
   <div class="event">
-    <strong>14h30 – Manège du Contrevent</strong> – Cie Grandet Douglas (tout public)  
+    <strong>15h – Manège du Contrevent</strong> – Cie Grandet Douglas (tout public)  
     <p>Le Contrevent est une balance, mettant en équilibre un piano et un tapis volant.  
     Le manège est un appel à l'imaginaire, à la rêverie douce, à la magie d'apesanteur.  
     C'est aussi le jeu de la recherche de l'équilibre, de la stabilité, c'est fragile et hypnotique.</p>
@@ -43,7 +43,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
   </div>
 
   <div class="event">
-    <strong>14h30 – DéCLICS</strong> – Cie Art Tout Chaud (tout public)  
+    <strong>15h – DéCLICS</strong> – Cie Art Tout Chaud (tout public)  
     <p>Déclics vous invite le public à venir photographier ses rêves, mettre en lumière ses idées, jouer avec les mots, les objets, les matières pour en faire une image, pas très sage, un photomontage, à l’ancienne !</p>
     <p>Grâce à leur Petit Théâtre Photographique, chacun peut se mettre en scène : maître à bord, créateur, personnage principal, décorateur…  
     Avec « DéCLICS » on change d’échelle, on enlève les couleurs, on imagine la vie en noir et blanc, on marche dans les pas des surréalistes et on ouvre la porte à la poésie.</p>
