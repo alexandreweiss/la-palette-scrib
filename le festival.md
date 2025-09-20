@@ -101,6 +101,23 @@ in_menu: true
     <p>Et derrière les platines ? Les DJ sets de Loup Blaster sont à son image : imprévisibles, radicaux, joyeux. Un grand écart assumé entre bass music déviante, happy core ultra euphorique, dembow mutant, donk DIY, ghetto tech ultra physique, et autres pépites sonores venues d’Amérique latine ou des marges électroniques globales. Chaque mix est pensé comme un terrain de jeu et d’émancipation, où le dancefloor devient un espace de glitch, de fête et de friction.</p>
   </div>
 
+<h3>👉 Ateliers du samedi</h3>
+
+<div class="event">
+  <strong>Lectures d’histoires avec Tout un monde</strong> – de 15h à 17h
+  <p>Tout un monde, bouquinerie nomade et solidaire vous propose des lectures à voix haute d’albums extraordinaires, pour rêver ensemble.</p>
+</div>
+
+<div class="event">
+  <strong>Origami avec Souffle de lune</strong> – de 15h à 19h
+  <p>On plie, on crée, on s'émerveille </p>
+</div>
+
+<div class="event">
+  <strong>Maquillage avec Heyomi</strong> – de 15h à 18h
+  <p>Heyomi vous invite à voyager dans son univers végétal, animal et onirique. Petits et grands sont les bienvenus pour un coup de pinceau éphémère, une pause fantaisie, un brin de poésie.</p>
+</div>
+
   <!-- DIMANCHE -->
   <h2>📅 Dimanche 28 septembre</h2>
 
@@ -135,14 +152,64 @@ in_menu: true
     <p>Grâce au live looping, aux beats hypnotiques, et à une énergie scénique contagieuse, leur complicité plonge le public dans une expérience musicale unique, entre danse et émotion.</p>
   </div>
 
-  <!-- WEEK-END -->
-  <h2>🎨 Tout le week-end</h2>
-  <ul>
-    <li>Exposition des œuvres de <strong>Loup Blaster</strong></li>
-    <li>Ateliers maquillage par <strong>Vanessa</strong></li>
-    <li>Atelier <strong>Origami</strong></li>
-    <li>Atelier <strong>Sérigraphie</strong></li>
-    <li>🍻🥙 Bar et restauration sur place</li>
+<!-- ATELIERS DIMANCHE -->
+<h3>👉 Ateliers du dimanche</h3>
+
+<div class="event">
+  <strong>Chant pour tou.te.s avec Chloé Thorey</strong> – à 14h
+  <p>Atelier de chant improvisé et circle song.<br> Sur inscription.</p>
+</div>
+
+<div class="event">
+  <strong>Poterie avec Atelier Terre</strong> – de 14h à 17h
+  <p>Venez vous essayer au modelage et aux empreintes végétales avec le céramiste Franck Groux.</p>
+  <p>Franck Groux a ouvert son atelier de céramiste dans la maison de l'abbé Prévost à Hesdin en 2022. Il met à profit sa longue expérience de peinture décorative dans la rénovation de ce monument historique du 17ème siècle. Franck se spécialise dans des pièces décoratives et des sculptures souvent cuites au Raku.</p>
+</div>
+
+
+ <!-- WEEK-END -->
+<h2>🎨 Tout le week-end</h2>
+
+<div class="event">
+  <strong>Exposition : Calais « de feu et d’eau » – Loup Blaster</strong>
+  <p>Loup Blaster est une artiste audiovisuelle, réalisatrice et musicienne originaire de Calais. 
+  Formée au cinéma d’animation elle développe un univers poétique et engagé qui traverse les formats : clips, fresques, fanzines, performances live, voix, VJing et DJ sets.</p>
+  <p>Son travail visuel a accompagné des artistes comme Clap! Clap!, NUMéROBé, Mister Oizo ou encore Jean-Luc Thomas (Waltz for Ukraine), mêlant animation et musique dans des œuvres aussi sensibles que politiques.</p>
+</div>
+
+<div class="event">
+  <strong>Atelier de sérigraphie avec Brunö – atelier graphique</strong>  
+  <p>📅 Samedi de 15h à 18h et dimanche de 14h à 17h</p>
+  <p>L’atelier graphique Brunö vous propose un atelier de sérigraphie sur textile* et sur papier.  
+  Venez au stand concevoir votre propre affiche du festival et repartir avec votre t-shirt sérigraphié à l’image de la Palette.</p>
+  <p><em>* Les t-shirts ne sont pas fournis, vous pouvez ramener les vôtres.</em></p>
+</div>
+
+<div class="event">
+  <strong>Bulles de yoga avec Katleya</strong>  
+  <p>En continu tout le week-end</p>
+  <p>Des mini-pratiques guidées pour se faire du bien, prendre soin de soi, s’offrir une pause.  
+  Rejoignez Katleya 10-15 minutes sous le shala.  
+  Pas besoin de matériel, venez comme vous êtes.</p>
+</div>
+
+<div class="event">
+  <strong>Vélo smoothie avec le Tiers-lieu nourricier du boulonnais</strong>  
+  <p>En continu tout le week-end</p>
+  <p>Le principe est simple : on pédale et on mixe.  
+  Au résultat ? De succulents smoothies, à composer soi-même.</p>
+</div>
+
+<div class="event">
+  <strong>Jeux en bois avec Opal’ Jump</strong>  
+  <p>En continu tout le week-end</p>
+</div>
+
+<div class="event">
+  <strong>🍻🥙 Bar et restauration sur place</strong>
+</div>
+
+
   </ul>
 
   <!-- Section soutiens -->
