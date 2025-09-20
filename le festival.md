@@ -3,7 +3,6 @@ title: "Le Festival"
 order: 3
 in_menu: true
 ---
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
