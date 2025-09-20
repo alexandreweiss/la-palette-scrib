@@ -209,9 +209,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 </head>
 <body>
 
-  <h1>🎶 Au Programme</h1>
-
-  <!-- ... ton programme tel que tu l'as écrit ... -->
+ 
 
   <!-- Section soutiens -->
   <div class="sponsors-block">
