@@ -153,12 +153,6 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 </p>
 
  <div class="event">
-    <strong>Ils nous soutiennent</strong>  </p>
-   ![Texte décrivant l'image]({% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %})
-![Texte décrivant l'image]({% link images/a7b402a1-b111-a88e-c78b-2c582e484a11.jpeg %})
-![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto copie.jpg %})
-![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto.jpg %})
-![Texte décrivant l'image]({% link images/cd8d7cf1-063f-b60c-6661-5920e2ae8588.jpeg %})
 
 
   </div>
@@ -166,3 +160,12 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 
 </body>
 </html> 
+
+    <strong>Ils nous soutiennent</strong>  </p>
+
+   ![Texte décrivant l'image]({% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %})
+
+![Texte décrivant l'image]({% link images/a7b402a1-b111-a88e-c78b-2c582e484a11.jpeg %})
+![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto copie.jpg %})
+![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto.jpg %})
+![Texte décrivant l'image]({% link images/cd8d7cf1-063f-b60c-6661-5920e2ae8588.jpeg %}) 
