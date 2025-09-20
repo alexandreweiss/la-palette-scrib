@@ -161,12 +161,70 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 </body>
 </html> 
 
-    Ils nous soutiennent</p>
+  <!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Festival - Programme complet</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
+    h1 { color: #b22222; }
+    h2 { margin-top: 40px; color: #444; }
+    h3 { margin-top: 30px; color: #b22222; }
+    .event { margin-bottom: 25px; padding: 15px; background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    iframe { margin: 10px 0; display: block; max-width: 100%; }
+    ul { margin-left: 20px; }
 
-   ![Texte décrivant l'image]({% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %})
+    /* Section soutiens */
+    .sponsors-block {
+      margin-top: 40px;
+      padding: 20px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .sponsors-block h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #b22222;
+    }
+    .sponsors {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      align-items: center;
+    }
+    .sponsors img {
+      max-height: 100px;
+      max-width: 200px;
+      object-fit: contain;
+      background: #fff;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
 
-![Texte décrivant l'image]({% link images/a7b402a1-b111-a88e-c78b-2c582e484a11.jpeg %})
-<iframe width="400" height="225" ![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto copie.jpg %}) </iframe>
-![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto copie.jpg %})
-![Texte décrivant l'image]({% link images/Bloc JES vertical 2025 vecto.jpg %})
-![Texte décrivant l'image]({% link images/cd8d7cf1-063f-b60c-6661-5920e2ae8588.jpeg %}) 
+  <h1>🎶 Au Programme</h1>
+
+  <!-- ... ton programme tel que tu l'as écrit ... -->
+
+  <!-- Section soutiens -->
+  <div class="sponsors-block">
+    <h2>Ils nous soutiennent</h2>
+    <div class="sponsors">
+      <img src="{% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %}" alt="Soutien 1">
+      <img src="{% link images/a7b402a1-b111-a88e-c78b-2c582e484a11.jpeg %}" alt="Soutien 2">
+      <img src="{% link images/Bloc JES vertical 2025 vecto copie.jpg %}" alt="Soutien 3">
+      <img src="{% link images/Bloc JES vertical 2025 vecto copie.jpg %}" alt="Soutien 4">
+      <img src="{% link images/Bloc JES vertical 2025 vecto.jpg %}" alt="Soutien 5">
+      <img src="{% link images/cd8d7cf1-063f-b60c-6661-5920e2ae8588.jpeg %}" alt="Soutien 6">
+    </div>
+  </div>
+
+</body>
+</html> 
