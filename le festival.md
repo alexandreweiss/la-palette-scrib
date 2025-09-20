@@ -140,8 +140,11 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
     <p>Grâce au live looping, aux beats hypnotiques, et à une énergie scénique contagieuse, leur complicité plonge le public dans une expérience musicale unique, entre danse et émotion.</p>
   </div>
 
+
+
   <!-- WEEK-END -->
   <h2>🎨 Tout le week-end</h2>
+ <div class="event">
   <ul>
     <li>Exposition des œuvres de <strong>Loup Blaster</strong></li>
     <li>Ateliers maquillage par <strong>Vanessa</strong></li>
@@ -150,7 +153,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
     <li>🍻🥙 Bar et restauration sur place</li>
   </ul>
 
- <div class="event">
+
 
   </div>
 
