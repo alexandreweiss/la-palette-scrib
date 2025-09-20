@@ -216,7 +216,6 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
       <img src="{% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %}" alt="Soutien 1">
       <img src="{% link images/a7b402a1-b111-a88e-c78b-2c582e484a11.jpeg %}" alt="Soutien 2">
       <img src="{% link images/Bloc JES vertical 2025 vecto copie.jpg %}" alt="Soutien 3">
-      <img src="{% link images/Bloc JES vertical 2025 vecto copie.jpg %}" alt="Soutien 4">
       <img src="{% link images/Bloc JES vertical 2025 vecto.jpg %}" alt="Soutien 5">
       <img src="{% link images/cd8d7cf1-063f-b60c-6661-5920e2ae8588.jpeg %}" alt="Soutien 6">
     </div>
