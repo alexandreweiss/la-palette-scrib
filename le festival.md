@@ -149,19 +149,14 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
     <li>Atelier <strong>Sérigraphie</strong></li>
     <li>🍻🥙 Bar et restauration sur place</li>
   </ul>
-</p></p>
-</p>
 
  <div class="event">
 
-
   </div>
- 
 
 </body>
 </html> 
 
-  <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
