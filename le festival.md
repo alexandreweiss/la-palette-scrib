@@ -21,9 +21,9 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
   <title>Festival - Programme complet</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
-    h1 { color: #b22222; }
-    h2 { margin-top: 40px; color: #444; }
-    h3 { margin-top: 30px; color: #b22222; }
+    h1 { color: #b22222; font-size: 1.8em; }
+    h2 { margin-top: 40px; color: #444; font-size: 1.5em; }
+    h3 { margin-top: 30px; color: #b22222; font-size: 1.2em; }
     .event { margin-bottom: 25px; padding: 15px; background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
     iframe { margin: 10px 0; display: block; max-width: 100%; }
     ul { margin-left: 20px; }
@@ -113,7 +113,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 
   <div class="event">
     <strong>16h30 – Digitôle</strong> – Cie Les trébuchés (tout public)  
-    <p>DiGiTÔLE est un spectacle de rue...</p>
+    <p>DiGiTÔLE est un spectacle de rue, tout public. Du jonglage, aux essences techno, burlesque et chorégraphique...</p>
     <iframe width="400" height="225" src="https://www.youtube.com/embed/55YIz9mwV8k" frameborder="0" allowfullscreen></iframe>
   </div>
 
