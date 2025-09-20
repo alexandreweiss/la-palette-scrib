@@ -161,7 +161,7 @@ pour la **3ème édition du festival** _Des Palettes Plein les Yeux_ !!
 </body>
 </html> 
 
-    <strong>Ils nous soutiennent</strong>  </p>
+    Ils nous soutiennent</p>
 
    ![Texte décrivant l'image]({% link images/9682befd-a7db-2af9-5256-b890947e03e3.jpeg %})
 
