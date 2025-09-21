@@ -157,9 +157,11 @@ in_menu: true
 <div class="event">
   <strong>Chant pour tou.te.s avec Chloé Thorey</strong> – à 14h
   <p>Chant improvisé, gratuit, ouvert à tous, sur réservation.  <br> Animé par Chloé
+<br>
 
 
 https://www.chantpourtous.com/evenements/chant-pour-tou·te·s-des-palettes-plein-les-yeux-a-longvilliers-62/
+<br>
 
 
 "Après un bref échauffement vocal, nous expérimenterons les circle songs et je vous proposerai des jeux d’improvisation vocale.
@@ -167,9 +169,10 @@ https://www.chantpourtous.com/evenements/chant-pour-tou·te·s-des-palettes-plei
 Nous chantons debout, mais des chaises sont disponibles.
 
 Aucune connaissance de chant n’est requise." Chloé
-
+<br>
 
 Chant pour Tous, c’est quoi ?
+<br>
 
 Vocal et corporel : chant a cappella, beatbox, percussions corporelles.
 Improvisé sur le moment : pas de reprises de chansons
