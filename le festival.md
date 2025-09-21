@@ -159,8 +159,8 @@ in_menu: true
   <p>Chant improvisé, gratuit, ouvert à tous, sur réservation.  <br> Animé par Chloé
 <br>
 
+<a href="https://www.chantpourtous.com/evenements/chant-pour-tou·te·s-des-palettes-plein-les-yeux-a-longvilliers-62/" target="_blank">INSCRIPTION ICI</a>
 
-https://www.chantpourtous.com/evenements/chant-pour-tou·te·s-des-palettes-plein-les-yeux-a-longvilliers-62/
 <br>
 
 
