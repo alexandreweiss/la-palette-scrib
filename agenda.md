@@ -3,7 +3,6 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -28,16 +27,16 @@ in_menu: true
   <h1>📅 Au programme ce mois-ci</h1>
 
   <div class="block">
-    <p><strong>Bonne nouvelle :</strong> le bar éphémère est ouvert <strong>tous les mardis soir de 18h à 22h</strong> jusqu'à fin septembre.</p>
+    <p><strong>Bonne nouvelle pour l'hiver et en attendant la nouvelle saison :</strong> le bar éphémère est ouvert <strong>tous les mardis et vendredis soir de 18h à 22h</strong> dans la Petite Grange.</p>
     <p>👉 pour boire un verre ...<br>
-    👉 pour manger une frite avec un bon houmous ...</p>
+    👉 pour manger un croc, un bon houmous, ou en fonction de l'arrivage ...</p>
   </div>
 
   <div class="block">
     <p><strong>Le détail des événements à venir</strong>  
       <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">c'est dans la newsletter</a>
     </p>
-    <p>On a plein de belles choses à partager avec vous ce mois-ci ✨</p>
+    <h1>📅 Et ça, c'était notre fin de saison ...</h1>
   </div>
 
   <div class="block">
