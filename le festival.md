@@ -52,9 +52,10 @@ in_menu: true
 
   <h1>🎶 Des palettes plein les yeux</h1>
  
-  <p><strong>Rendez-vous les 27 et 28 septembre 2025</strong> pour la <strong>3ème édition du festival</strong> <em>Des Palettes Plein les Yeux</em> !!</p>
+  <p>La <strong>3ème édition du festival</strong> <em>Des Palettes Plein les Yeux</em> s'est bien déroulée les 27 et 28 septembre 2025</p>
   <p><img src="{% link images/PALETTESPLEINLESYEUX-Vinternet.jpeg %}" alt="Affiche du festival"></p>
 
+Le programme était au top ! Rendez-vous cette année pour la 4ème édition.
   <!-- SAMEDI -->
   <h2>📅 Samedi 27 septembre</h2>
 
