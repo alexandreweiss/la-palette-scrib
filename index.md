@@ -18,12 +18,14 @@ On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.
 
 On a surtout un lieu qui offre plein de possibilités.
 
-Chaque mardi, le bar associatif ouvre ses portes avec des ateliers, des concerts, des projections, des rencontres...
+Chaque mardi et vendredi, le bar associatif ouvre ses portes avec des ateliers, des concerts, des projections, des rencontres...
+
+En été, nous sommes dans la partie ouverte, ancien hangar agricole. En hiver, nous sommes dans la "Petit Grange", bien au chaud.
 
 Et dans le même temps, on écrit le projet, on fait des plans (y compris sur la comète), on monte des murs en paille, on teste des recettes de bières, on ouvre une guinguette éphémère, on rencontre des gens, des partenaires…
 Et on rigole bien.
 
-A terme, La Palette souhaite devenir un lieu hybride où l’on viendra pour travailler, voir un spectacle, écouter un concert, manger ou boire une des bières fabriquées sur place. On pourra également se poser, jardiner, commander ses légumes et laisser jouer ses enfants. 
+A terme, La Palette souhaite devenir un lieu hybride où l’on viendra pour travailler, voir un spectacle, écouter un concert, manger ou boire une des bières fabriquées localement. On pourra également se poser, jardiner, commander ses légumes et laisser jouer ses enfants. 
 
 …A suivre…
 
