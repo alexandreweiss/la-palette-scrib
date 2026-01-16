@@ -5,6 +5,10 @@ in_menu: true
 ---
 La mémoire de notre lieu ...
 
+**samedi 27 et dimanche 28 septembre 2025** Des Palettes plein les yeux
+
+![Affiche DPPLY2025]({% link images/PALETTESPLEINLESYEUX-Vinternet.jpeg %})
+
 **mardi 22 juillet** Bleu Pétrol et Terrain vague
 
 ![Affiche Rock en Stock]({% link images/rock-en-stock-monte-le-son.jpg %})
