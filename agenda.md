@@ -51,3 +51,51 @@ Par la Carcaza's Circus Company
 
 **Bal avec le Bal de Chamai**  
 19h30 
+
+## 🎪 Stages de cirque
+
+![Stage cirque]({% link images/affichecirque.png %})
+
+Stage d’initiation et de perfectionnement aux arts du cirque  
+pour enfants, jeunes et adultes.
+
+Au programme :
+
+- acrobatie et portés
+- jonglerie
+- équilibre sur objets (fil, boule, rolla-bolla…)
+- aériens selon l’aptitude de chacun·e
+
+Les stages sont animés par **Luc**, circassien depuis 30 ans.
+
+### Dates
+
+- 13 → 17 avril  
+- 20 → 24 avril  
+
+Possibilité de participer à **une semaine ou aux deux**.
+
+### Horaires et tarifs
+
+**Enfants (6 – 9 ans)**  
+9h30 – 12h  
+90 € / semaine
+
+**Adolescent·es (10 – 15 ans)**  
+14h – 17h  
+120 € / semaine
+
+**Adultes (16 ans et +)**  
+18h – 19h30  
+80 € / semaine
+
+Possibilité de participer **à la journée : 20 €**
+
+Réduction **10 % pour une inscription sur les deux semaines**.
+
+### Inscriptions
+
+👉 **[S'inscrire au stage de cirque (enfants)](https://www.helloasso.com/associations/l-association-pour-la-palette/evenements/stage-cirque-avril-2026-enfants)**
+
+Renseignements :  
+☎ 06 89 87 38 04 
