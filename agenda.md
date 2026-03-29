@@ -3,84 +3,82 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Agenda</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; background: #fafafa; }
-    h1 { color: #b22222; font-size: 1.8em; margin-bottom: 20px; }
-    h2 { color: #444; font-size: 1.3em; margin-top: 20px; }
-    p { margin-bottom: 10px; }
-    .block { background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-bottom: 25px; }
-    ul { margin: 0; padding-left: 20px; }
-    li { margin-bottom: 15px; }
-    a { color: #b22222; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    img { max-width: 250px; margin-top: 15px; }
-    iframe { margin-top: 10px; display: block; max-width: 100%; border-radius: 6px; }
-  </style>
-</head>
-<body>
+# 🌿 La Gazette de La Palette – Avril
 
-  <h1>📅 Au programme ce mois-ci</h1>
+![Agenda Avril]({% link images/agenda-avril.png %})
 
-  <div class="block">
-    <p><strong>Bonne nouvelle pour l'hiver et en attendant la nouvelle saison :</strong> le bar éphémère est ouvert <strong>tous les mardis et vendredis soir de 18h à 22h</strong> dans la Petite Grange.</p>
-    <p>👉 pour boire un verre ...<br>
-    👉 pour manger un croc, un bon houmous, ou en fonction de l'arrivage ...</p>
-  </div>
+Voici le programme de La Palette pour le mois d’avril 🌸
 
-  <div class="block">
-    <p><strong>Le détail des événements à venir</strong>  
-      <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">c'est dans la newsletter</a>
-    </p>
-    <h1>📅 Et ça, c'était notre fin de saison ...</h1>
-  </div>
+---
 
-  <div class="block">
-    <h2>🎉 27 & 28 sept. : Les Palettes Plein les Yeux</h2>
-    <p>Deux jours de fête en plein air : concerts, danse, théâtre, ateliers, marché d’artisan·es…  
-    et de quoi boire & manger sur place 🍻🍴</p>
+## 🌸 Fête du Printemps – 11 avril
 
-    <h2>🙌 Envie de filer un coup de main ?</h2>
-    <p>Rejoignez l’équipe des bénévoles (accueil, bar, montage, démontage) 👉  
-      <a href="https://chat.whatsapp.com/KVI2SSLAlPk50imPG9fZCc?mode=ems_copy_t" target="_blank">lien WhatsApp</a>
-    </p>
+Une grande journée festive pour célébrer le printemps !
 
-    <h2>🔨 Chantier participatif du 10 au 13 sept. (10h-18h)</h2>
-    <p>Même une petite heure c’est précieux… et on partage un bon repas ensemble 🍲</p>
-  </div>
+Au programme :
 
-  <div class="block">
-    <h2>🍎 Les Mardis de la Palette</h2>
-    <ul>
-      <li>Cueillette de pommes tous les mardis (14h-18 h)</li>
-      <li>9 sept. : Yoga avec Katleya 🧘‍♀️</li>
-      <li>
-        16 sept. : Concert Oaio 🎶  
-        <iframe width="400" height="225"
-          src="https://www.youtube.com/embed/videoseries?list=UUIvuumY0hO6b8-yahUjLuJw"
-          frameborder="0" allowfullscreen>
-        </iframe>
-      </li>
-      <li>
-        23 sept. : Concert Cyril Hericourt 🎸  
-        <iframe width="400" height="225"
-          src="https://www.youtube.com/embed/P76FlNSUxcc"
-          frameborder="0" allowfullscreen>
-        </iframe>
-      </li>
-    </ul>
-  </div>
+- Marché
+- Ateliers
+- Spectacles
+- Bal
 
-  <div class="block">
-    <p>👉 Le programme complet est ici :  
-      <a href="https://mailchi.mp/lapalette.org/lagazetteno3-2317?e=202a69079a" target="_blank">voir la newsletter</a>
-    </p>
-    <p>On a hâte de vous retrouver 🌿💛</p>
-  </div>
+---
 
-</body>
-</html> 
+## 🎪 Stages Cirque – 13 au 24 avril
+
+Deux semaines de stage pour découvrir les arts du cirque.
+
+Public :
+- enfants
+- ados
+- adultes
+
+Sur réservation.
+
+---
+
+## 🌿 Les Ateliers
+
+### 8 avril – Vivre en corps
+16h – 18h  
+Atelier parents / enfants
+
+### 9 & 23 avril – Yoga
+10h30 – 12h  
+12€ la séance  
+
+Réservation : 06 65 25 79 89
+
+### 25 & 26 avril – Théâtre d’impro
+14h – 18h  
+20€ le week-end  
+
+Sur réservation.
+
+---
+
+## 🎉 Les Mardis et Vendredis à La Palette
+
+### 3 avril – Soirée Mentaliste
+Dîner spectacle  
+Sur réservation
+
+### 7 avril – Jeux de société
+
+### 10 avril – Réunion d'infos bénévoles
+
+### 14 & 17 avril – Fête du livre
+Projections  
+Débats  
+Expositions  
+Ateliers
+
+### 21 avril – Animation doublage dessins animés
+
+### 24 avril – Scène ouverte
+
+### 28 avril – Atelier Arbre de vie
+
+---
+
+🌿 On a hâte de vous retrouver à La Palette ! 
