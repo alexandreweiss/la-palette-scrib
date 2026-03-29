@@ -9,3 +9,16 @@ in_menu: true
 
 Le printemps arrive à **La Palette** 🌸  
 Voici les rendez-vous du mois d’avril. 
+
+## 🌸 11 avril — Fête du printemps
+
+![Affiche Fête du printemps]({% link images/affiche Fete du printemps.png %})
+
+La Palette ouvre sa saison 2026 !
+
+Au programme :
+
+- marché de producteurs et créateurs
+- ateliers participatifs
+- spectacles
+- bal 
