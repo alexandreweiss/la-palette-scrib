@@ -35,7 +35,7 @@ data-width="380"
 data-hide-cover="false"
 data-show-facepile="false"></div>
 
-![Concert]({% link images/la-palette-preau.jpeg %})
+![Texte décrivant l'image]({% link images/DesPalettesPleinsLesYeux-CLAIR OBSCUR PHOTO-0032.jpg %})
 
 
 
