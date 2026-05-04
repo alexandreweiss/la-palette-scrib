@@ -3,11 +3,6 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
----
-layout: page
-title: Gazette de La Palette – Mai
----
-
 # 🌿 LA GAZETTE DE LA PALETTE – MAI
 
 [![Agenda Mai]({% link images/679788731_917352974637887_709161457948882954_n.jpg %})]({% link images/679788731_917352974637887_709161457948882954_n.jpg %})
