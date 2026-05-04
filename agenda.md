@@ -64,6 +64,8 @@ Venez chanter (juste ou pas 😄) et partager un moment festif 🎶
 
 ### 🎹 Mardi 12 mai — Concert Hélène Grandsire
 
+![Texte décrivant l'image]({% link images/673805261_910534105319774_991037566790148559_n.jpg %})
+
 Un répertoire mêlant émotions intimes et regards sur le monde.  
 Un spectacle poétique et engagé.
 
@@ -74,6 +76,8 @@ Concert à partir de 20h
 ---
 
 ### 🎸 Vendredi 15 mai — Concert Syndrome Bazar
+
+![Texte décrivant l'image]({% link images/682880600_919108597795658_8301631160788549312_n.jpg %})
 
 Rock brut, énergie punk et textes puissants.  
 Une expérience intense et sincère 🔥
@@ -119,6 +123,9 @@ Ouverture du bar à 18h
 ---
 
 ### 🍋 Vendredi 29 mai — Concert Lemon Curd
+
+![Texte décrivant l'image]({% link images/658147557_1517553697043699_1891902563948023292_n-2.jpg %})
+
 
 Duo folk chaleureux mêlant compositions et reprises.  
 Un concert tout en douceur pour finir le mois 🎶
