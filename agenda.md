@@ -3,7 +3,7 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-# 🌿 LA GAZETTE DE LA PALETTE – JUIN
+# 🌿 L'agenda de juin de la Palette 
 
 [!![Agendajuinrecto]({% link images/3.jpg %})
 ]
