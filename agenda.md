@@ -5,10 +5,10 @@ in_menu: true
 ---
 # 🌿 L'agenda de juin de la Palette 
 
-[!![Agendajuinrecto]({% link images/3.jpg %})
+![Agendajuinrecto]({% link images/3.jpg %})
 ]
 [!![Agendajuinverso]({% link images/4.jpg %})
-]
+
 
 Découvrez ce qu’il se passe à La Palette prochainement 🌸  
 
@@ -244,17 +244,12 @@ Animé par Catherine Bouchez, facilitatrice des collectifs vivants.
 
 ### 🌊 du 24 au 28 juin
 
+
+Le Grand Bain s'invite à la Palette !!!
+
 ![Texte décrivant l'image]({% link images/carte postale La Palette - copie.jpg %})
 
-
-
-Un festival de rencontres, d’ateliers et de moments partagés
-
-Pendant plusieurs jours, La Palette se transforme en terrain d’expérimentations joyeuses 🌿
-
-Ateliers, concerts, repas, discussions, créations collectives et surprises au programme ✨
-
-👉 Détail du programme à venir
+![Texte décrivant l'image]({% link images/carte postale La Palette - verso.jpg %})
 
 ---
 
