@@ -3,9 +3,10 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-# 🌿 LA GAZETTE DE LA PALETTE – MAI
+# 🌿 LA GAZETTE DE LA PALETTE – JUIN
 
-[![Agenda Mai]({% link images/679788731_917352974637887_709161457948882954_n.jpg %})]({% link images/679788731_917352974637887_709161457948882954_n.jpg %})
+[!![Agendajuinrecto]({% link images/3.jpg %})
+]({% link images/679788731_917352974637887_709161457948882954_n.jpg %})
 
 Découvrez ce qu’il se passe à La Palette prochainement 🌸  
 Un mois placé sous le signe du son, des rencontres et du partage.
