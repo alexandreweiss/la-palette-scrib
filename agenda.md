@@ -14,7 +14,7 @@ Découvrez ce qu’il se passe à La Palette prochainement 🌸
 ---
 
 
-## 🔥 TEMPS FORT — Vendredi 6 juin
+## 🔥 TEMPS FORT — Samedi 6 juin
 
 ### 💃 Bal Folk avec Smitlap
 
@@ -26,7 +26,9 @@ Ce mois-ci, La Palette accueille le Bal Folk de Smitlap, dont l’intégralité 
 
 📅 Samedi 6 juin
 ⏰ 19h
-💛 Prix libre
+💛 Prix libre.   
+
+
 ---
 
 ## 🌿 Les mardis et vendredis de la Palette
