@@ -6,8 +6,7 @@ in_menu: true
 # 🌿 L'agenda de juin de la Palette 
 
 ![Agendajuinrecto]({% link images/3.jpg %})
-]
-[!![Agendajuinverso]({% link images/4.jpg %})
+![Agendajuinverso]({% link images/4.jpg %})
 
 
 Découvrez ce qu’il se passe à La Palette prochainement 🌸  
@@ -253,24 +252,35 @@ Le Grand Bain s'invite à la Palette !!!
 
 ---
 
----
-
 ## 📅 À vos agendas
 
-La Palette est ouverte tous les mardis et vendredis dès 18h 🍻  
+La Palette est ouverte tous les mardis et vendredis à partir de 18h 🍻
+Le programme se construit au fur et à mesure des envies de chacun·e,
+mais vous pouvez d’ores et déjà bloquer ces dates dans votre agenda ! 🗓️
 
 ---
 
 ### 🎶 À venir
 
-📌 17 juillet — Concert Terrain Vague  
-📌 11 août — Nuit des étoiles  
-📌 21 & 22 août — Blues in Août  
-📌 26 & 27 septembre — Les Palettes Plein les Yeux  
+🗓️ **Mardis et vendredis**
+
+📌 vendredi 3 juillet -  Concert LUM.  
+📌 mardi 7 juillet -  Gratiféria et Danse intuitive.  
+📌 Vendredi 10 juillet -  Concert The cat’s Band.  
+📌 Mardi 4 août -  Concert Arnaud Delerue.  
+📌 Vendredi 7 août -  Nuit des étoiles  
+📌 Mardi 18 août -  Concert Blues in Aout OFF  
+
+🗓️ **Les ateliers**  
+📌 Jeudi 9 juillet -  Atelier Yoga avec Katleya  
+
+🗓️ **Les temps forts inratables !!**  
+📌 le 3 juillet  – concert de LUM  
+📌 21 et 22 août – Blues in Août   
+📌 26 et 27 septembre – *Des Palettes Plein les Yeux*
 
 ---
 
 ## 📲 Restez informé·e
 
-👉 Rejoignez le groupe WhatsApp de la Gazette pour suivre les événements.
-``` 
+👉 Rejoignez le groupe WhatsApp de la Gazette pour suivre les événements. 
