@@ -248,8 +248,6 @@ Animé par Catherine Bouchez, facilitatrice des collectifs vivants.
 
 Le Grand Bain s'invite à la Palette !!!
 
-![Texte décrivant l'image]({% link images/carte postale La Palette - copie.jpg %})
-
 ![Texte décrivant l'image]({% link images/carte postale La Palette - verso.jpg %})
 
 ---
