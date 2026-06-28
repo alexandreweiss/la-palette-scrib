@@ -3,284 +3,291 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-# 🌿 L'agenda de juin de la Palette 
+# 🌿 L'agenda de juillet de la Palette
 
-![Agendajuinrecto]({% link images/3.jpg %})
-![Agendajuinverso]({% link images/4.jpg %})
+![Texte décrivant l'image]({% link images/5.png %})
+![Texte décrivant l'image]({% link images/6.png %})
 
 
-Découvrez ce qu’il se passe à La Palette prochainement 🌸  
+Découvrez ce qu'il se passe à La Palette cet été ☀️
 
 ---
 
+## 🎪 Les stages de cirque
 
-## 🔥 TEMPS FORT — Samedi 6 juin
+### 🤸 Stage d'initiation et de perfectionnement aux Arts du Cirque
 
-### 💃 Bal Folk avec Smitlap
+Pendant les vacances, La Palette accueille deux semaines de stages pour les enfants, les adolescent·es et les adultes.
 
-La Palette, vous le savez, est un lieu associatif.
-Fragile économiquement, mais riche de toutes les personnes qui le font vivre au quotidien ✨
-Grâce à un écosystème précieux de partenaires, de bénévoles, de contributeur·rices et d’adhérent·es généreux·ses, nous pouvons continuer à proposer ces moments de rencontres, de culture et de partage en milieu rural.
-Et malgré cet équilibre parfois fragile, il nous tient à cœur de soutenir à notre tour des causes qui nous touchent.
-Ce mois-ci, La Palette accueille le Bal Folk de Smitlap, dont l’intégralité des bénéfices d’entrée et de bar sera reversée à l’association À 8 bras pour Victoria ❤️
+Au programme :
+🤸 Acrobatie et portés
+🤹 Jonglerie
+⚖️ Équilibre sur objets (fil, boule, rolla-bolla...)
+🎗️ Aériens selon les aptitudes de chacun·e
 
-📅 Samedi 6 juin
-⏰ 19h
-💛 Prix libre.   
+Les stages sont animés par Luc, circassien depuis 30 ans et professeur de cirque depuis plus de 15 ans.
 
+📅 Deux semaines au choix :
+• du 6 au 10 juillet
+• du 3 au 7 août
+
+### Horaires
+
+👧 Enfants (6-9 ans)
+9h30 - 12h
+
+🧑‍🎤 Adolescent·es (10-15 ans)
+14h - 17h
+
+🧑 Adultes (16 ans et +)
+18h - 20h
+
+💶 Tarifs
+
+• Enfants : 90 € / semaine
+• Adolescent·es : 120 € / semaine
+• Adultes : 80 € / semaine
+
+Possibilité de participer à la journée (20 €).
+✨ 10 % de réduction pour une inscription aux deux semaines.
+
+📞 Renseignements : 06 89 87 38 04
 
 ---
 
 ## 🌿 Les mardis et vendredis de la Palette
 
 Chaque semaine, la Palette ouvre ses portes pour des soirées conviviales !
-🍻 Bar et petite restauration sur place chaque mardi et vendredi à partir de 18h! 
 
-Jeux, rencontres, spectacles, débats…  une proposition différente à chaque fois !
+🍻 Bar et petite restauration sur place chaque mardi et vendredi à partir de 18h.
 
----
-### 🗓️ Mardi 2 juin - 18h
-
-💬 **Soirée jeux de société et fléchettes**
-
-Tout est dans le titre : on sort les cibles et nos fléchettes, on apporte nos jeux de société et on passe une bonne soirée ! 
-
----
-### 🗓️ vendredi 5 juin - 18h
-
-🎹 **Scène ouverte**
-
-Hey Hey ! On se refait une scène ouverte ? 😄😄
-Vous connaissez maintenant le principe : nous accueillons tou.tes ceux et celles qui veulent partager leur(s) talent(s), se produire, et donner au public l'occasion de vivre plusieurs ambiances dans la même soirée. On y danse, on y rit, on y joue, et on en redemande !
-
-Et cette fois, ce sera dans le hangar ! 🤩🤩🤩
-Ca veut dire qu'en plus de tous les artistes, y'aura nos fameuses frites !!! 😁
-Si vous avez une envie folle de faire votre show, ou de vivre vos premiers tracs, appelez Franck au 0640718253
-Quant à toi, public, on t'attend nombreux  🍟🍹🍻
-
----
-### 🗓️ mardi 9 juin - 18h
-
-🎤 **karaoké**
-
-🎤 Que vous chantiez juste… ou avec beaucoup d’enthousiasme 😄
-En solo, en duo ou à plusieurs, venez pousser la chansonnette ✨
+Concerts, jeux, rencontres, spectacles... une proposition différente à chaque fois !
 
 ---
 
-### 🗓️ Vendredi 12 juin — 19h30
+### 🗓️ Vendredi 3 juillet — 19h30
 
-🎶 **Concert Les Enfants du Minitel**
+💃 **Bal Folk avec LÜM**
 
-La Palette est à vous !
-Avec les rendez-vous La Palette est à vous , La Palette donne carte blanche à celles et ceux qui souhaitent proposer une soirée, un concert, une rencontre ou une animation.
+Le 3 juillet, c'est Bal Trad à La Palette !
 
-🎸Le 12 juin, nous accueillons Les Enfants du Minitel pour une soirée rock avec des reprises des années 80 ! 
+LÜM, c'est trois musiciennes complices qui revisitent les musiques traditionnelles à danser. Violon, flûte traversière, accordéon, trois voix et quelques percussions nous embarquent dans un voyage entre Bretagne, Irlande, valses et compositions originales.
 
----
-
-### 🗓️ Mardi 16 juin — 18h
-
-🍎 **Spectacle - dégustation *De cidre et d’ailleurs***
-
-🎭 Les rendez-vous de La Palette
-
-Ce mardi, nous accueillons la compagnie itinérante Après l’Automne avec leur spectacle “De cidre et d’ailleurs”.
-En tournée dans le Nord pendant un mois, ils font escale à La Palette pour une soirée de théâtre intimiste au cœur des champs et des chaumières.
-
-Entre récits, convivialité et poésie du quotidien, “De cidre et d’ailleurs” nous invite à ralentir et à partager un moment chaleureux ensemble.
-
-🥞 La soirée se prolongera autour d’un repas de galettes bretonnes.
-
-⚠️ Repas sur réservation auprès de Maeva 06 62 32 27 52 — limité à 30 personnes.
-🍻 Bar sur place
-🕕 À partir de 18h
-
----
-
-### 🗓️ Vendredi 19 juin — 18h
-
-🎭 **Spectacle Coline Marescaut**
-
-Une voix appelle, réveille le cœur-poème et secoue l'enfant arraché au silence.
-
-Les mots, d'abord ravalés comme des cailloux dans la gorge, roulent tandis que la terre tremble et que le futur vacille. Le corps devient faille, souffle, battement.
-
-Cette renaissance ne sera pas tranquille, la vie n'est pas tranquille, elle remue, mais au cœur des secousses s'ouvre un passage vers la vie, vers l'autre, vers un nous
-
-📅 vendredi 19 juin
-⏰ Début du spectacle à 18h - Durée 40 min
+🍻 Bar et restauration sur place
 💛 Prix libre
 
 ---
 
-### 🗓️ Mardi 23 juin — 19h30
+### 🗓️ Mardi 7 juillet — 18h30
 
-**soirée spéciale sur le thème de l’exil**
+🙌 **La Palette est à vous & rencontre bénévoles**
 
-Projection du documentaire « One by One » réalisé par Camille Guigueno
-Rencontre et échanges avec des associations accompagnant les personnes exilées.
+Comme chaque mois, La Palette est à vous donne carte blanche à celles et ceux qui souhaitent proposer une soirée, un atelier ou une animation.
 
-🕕 Ouverture des portes à 18h
-🎬 Projection du documentaire à 19h30
-En partenariat avec le Festival des RIM, les 4 et 5 juillet à Wimereux.
+Cette soirée sera également l'occasion de rencontrer les bénévoles de La Palette.
 
-👕 Collecte de vêtements
-Pendant tout le mois de juin, nous collectons des vêtements pour hommes ainsi que des chaussures.
-N’hésitez pas à venir les déposer les mardis et vendredis à partir de 18h
+Que vous soyez futur·e bénévole, nouvel·le arrivant·e ou bénévole de longue date, venez échanger avec nous !
 
 ---
-### 🗓️ Vendredi 26 juin — 19h30
 
-🎶 **Concert  *Prince de Pacotille***
+### 🗓️ Vendredi 10 juillet — 20h
 
-vénement porté par le Grand Bain
+🎶 **Concert The Cat's Band**
 
-Prince de Pacotille cultive une poésie du quotidien à travers des chansons en français portées par le ukulélé. Seul en scène, Alexandre Humbert explore avec audace toutes les sonorités de cet instrument atypique. Grâce au looper, il superpose les rythmes, tisse des mélodies et compose un univers à la fois solaire et mélancolique, entre douceur, humour et sincérité.
- Un concert avec Alexandre Humbert 
-Production Utopie Volante
+The Cat's Band revisite avec humour et générosité les grands standards du jazz, du swing, de la bossa mais aussi des chansons françaises et internationales.
 
-⏱ Durée : 1h
-👥 Public : tous·tes
-💸 Tarif libre | accès libre
+Une soirée conviviale garantie !
 
+🕕 Ouverture du bar à 18h
+🎵 Concert à 20h
+💛 Prix libre
 
 ---
-### 🗓️mardi 30 juin — 20H
-🔊**Voyage sonore par *InSOlo***
 
-Expérience sonore immersive à partir des signaux électriques des plantes pour éveiller une écoute sensible du vivant.
-inSOlo, plasticien et musicien des Hauts de France, fusionne le son et la botanique en amplifiant les micro-variations électriques des plantes pour créer des expériences sonores immersives, invitant à une écoute sensible du vivant et à une reconnexion poétique avec la nature.
+### 🗓️ Mardi 14 juillet — 21h
 
-🌿 Dans la petite grange, pour entrer pleinement dans le voyage sonore.
+⚽ **Diffusion de la demi-finale de la Coupe du Monde**
 
-🍷 Le bar restera ouvert dans le hangar.
+La Palette est à vous !
 
-🕕 Ouverture des portes à 18h
-Voyage sonore a 20h
+Nous installons le grand écran pour suivre ensemble la demi-finale de la Coupe du Monde.
 
---- 
+🍻 Bar et restauration dès 18h
+⚽ Match à 21h
+
+---
+
+### 🗓️ Vendredi 17 juillet — 20h
+
+🎶 **Concert Terrain Vague**
+
+🎭 Les rendez-vous de La Palette
+
+Terrain Vague & Co est un collectif d'artistes autour de la chanson française.
+
+Le groupe mêle rock, électro et hip-hop avec des textes humanistes inspirés de la vie, de ses déceptions et de ses espoirs.
+
+🕕 Ouverture du bar à 18h
+🎵 Concert à 20h
+💛 Prix libre
+
+---
+
+### 🗓️ Mardi 21 juillet — 19h30
+
+🎸 **Rock en Stock - Monte le Son !**
+
+Comme chaque année, La Palette accueille le OFF du festival Rock en Stock.
+
+Deux concerts au programme :
+
+🎤 Kayms
+🎶 Ripley
+
+Une belle soirée rock à partager ensemble !
+
+🍻 Bar et restauration sur place
+💛 Prix libre
+
+---
+
+### 🗓️ Vendredi 24 juillet
+
+🎤 **Karaoké**
+
+Que vous chantiez juste... ou avec beaucoup d'enthousiasme 😄
+
+En solo, en duo ou en groupe, venez partager une soirée pleine de bonne humeur.
+
+---
+
+### 🗓️ Mardi 28 juillet
+
+🍺 **Bar d'été - Dégustation de bières**
+
+Découverte des bières artisanales de la Brasserie Vent Sauvage.
+
+Une soirée pour découvrir des bières biologiques inspirées des styles historiques régionaux.
+
+💶 Prix libre (participation conseillée : 10 €)
+
+📞 Réservation : 06 62 32 27 52
+
+---
+
+### 🗓️ Vendredi 31 juillet
+
+🎹 **Scène ouverte**
+
+On remet ça !
+
+Musique, chant, poésie, humour... la scène est ouverte à toutes les envies.
+
+Si vous souhaitez monter sur scène, contactez Franck au
+📞 06 40 71 82 53
+
+🍻 Bar et restauration sur place dès 18h.
+
+---
 
 ## 🌿 Les ateliers Bien-être 🌸
 
-### 🗓️ mercredi 10 juin - 10h30
-**Initiation au Qi Gong**
+### 🗓️ Jeudi 9 juillet — 10h30
 
-Le Qi gong est une pratique traditionnelle chinoise qui vise à entretenir et à équilibrer  l'énergie vitale appelée Qi.
-Je vous propose une séance de découverte du Qi gong de l'oie sauvage, avec des enchaînements de mouvements lents et quelques explications de base.
-Une deuxième séance sera proposée dans les semaines à venir.
-Prévoyez des vêtements souples.
+🌸 **Yoga avec Katleya**
 
-🕙 10h30 — 12h
-💶 Gratuit
+Séance en petit groupe, accessible à tous.
+
+💶 12 €
+
+📞 Réservation : 06 65 25 79 98
+
+Le prix ne doit pas être un frein.
+Possibilité de troc.
+
+---
+
+### 🗓️ Mercredis 15 et 22 juillet — 10h30
+
+🪷 **Initiation au Qi Gong**
+
+Découverte du Qi Gong de l'Oie Sauvage avec Isabelle.
+
+Prévoir une tenue souple.
+
+🕙 10h30 à 12h
+💶 Prix libre
+
 📞 Réservation : 06 62 32 27 52
 
 ---
 
-### 🗓️ jeudi 11 juin et 24 juin - 10h30 -12h
+### 🗓️ Samedi 4 juillet — 14h30
 
-**🌸 Ateliers Yoga avec Katleya**
+🎭 **Stage de théâtre d'impro**
 
-Séances en petit groupe (10 personnes maximum) pour un accompagnement personnalisé.
+Envie de découvrir l'improvisation ?
 
-Accessible à tous les niveaux, débutants comme pratiquants avancés.
-💰 12 € la séance
+Un atelier spécialement conçu pour les débutant·es (18 ans et +).
 
-📞 Réservation :
-06 65 25 79 98
+Jeux, exercices, création d'histoires collectives et bonne humeur seront au rendez-vous.
 
-💬 Message de Katleya :
-“Le prix ne doit pas être un frein !
-Troc possible. Appelez-moi !
-Un thé est offert au bar de la Palette après la séance ☕
-Et si vous n’avez pas de tapis, je vous en prêterai.”
+👤 Animé par Mô.
+
+💶 10 €
 
 ---
 
-### 🗓️ jeudi 18 juin - 10h30
-**🪷 Yoga Samara avec Patricia**
+### 🗓️ Mercredi 1er et vendredi 3 juillet — 14h
 
-Parfois appelé mouvement de Samara ou yoga de la sagesse, le yoga de samara est une pratique douce qui combine mouvements lents, respiration consciente, relaxation et attention intérieure.
-Il respecte les limites du corps et évite toute forme de contorsion.
-Accessible aux débutant.es comme aux pratiquant.es expérimenté.es, aux jeunes , aux seniors et aux personnes en situation d'handicap.
+🧵 **Stage couture**
 
-🪷 Yoga de Samara avec l’association Avec Sérénité
-📅 Jeudi 18 juin 2026
-🕙 10h30 — 12h
-💶 10€
-📞 Réservation : 06 62 32 27 52
+Confection de sacs, projets personnels, découverte de la couture...
+
+Que vous soyez débutant·e ou confirmé·e, venez partager un après-midi créatif dans la bonne humeur.
 
 ---
 
 ## 🤝 Faire collectif 🤝
 
-### 🗓️ Du 12 au 16 juin
-**🛠️ Chantier participatif à La Palette**
+### 🗓️ Du 3 au 7 juillet
 
-La Palette continue de prendre forme… et comme toujours, cela se construit ensemble 🌿
-Nous vous invitons à un nouveau chantier participatif pour aménager, bricoler, réparer, installer, jardiner, peindre ou simplement donner un coup de main dans la bonne humeur.
-Pas besoin d’être expert·e : chacun·e participe à sa manière, selon son envie et son énergie ✨
+🛠️ **Chantier participatif**
 
-N'hésitez pas à prendre contact avec Luc au 06 89 87 38 04 pour prévenir de votre venue.
+La future épicerie continue de prendre forme !
 
----
+Au programme :
+• nettoyage du local
+• traitement des bois
+• pose des rayonnages
+• poursuite des travaux selon l'avancement.
 
-### 🗓️ Samedi 20 juin - 14h-17h
-**🤝 Comment bien fonctionner en collectif?**
+Nous avons besoin de toutes les bonnes volontés !
 
-Café, jeux et goûter inclus !
-Séance d’intelligence collective et de cohésion d’équipe et en même temps on va apprendre plein de choses sur : « comment bien fonctionner en collectif »
-
-Animé par Catherine Bouchez, facilitatrice des collectifs vivants.
-
-📅 Samedi 20 juin 2026
-
-🕙 14h - 17h
-
-📞 Réservation : 06 62 32 27 52
-
----
-
-## 🦋 Le Grand Bain 🦋
-
-### 🌊 du 24 au 28 juin
-
-
-Le Grand Bain s'invite à la Palette !!!
-
-![Texte décrivant l'image]({% link images/carte postale La Palette - verso.jpg %})
+📞 Luc : 06 89 87 38 04
 
 ---
 
 ## 📅 À vos agendas
 
 La Palette est ouverte tous les mardis et vendredis à partir de 18h 🍻
-Le programme se construit au fur et à mesure des envies de chacun·e,
-mais vous pouvez d’ores et déjà bloquer ces dates dans votre agenda ! 🗓️
 
----
+Le programme se construit au fil des envies, mais vous pouvez déjà noter :
 
 ### 🎶 À venir
 
-🗓️ **Mardis et vendredis**
+📌 Mardi 4 août — Concert Arnaud Delerue
+📌 Vendredi 7 août — Nuit des étoiles
+📌 Mardi 18 août — Blues in Août OFF
+📌 Vendredi 28 août — Soirée DJ
+📌 Vendredi 25 septembre — Lectures théâtralisées *En attendant mieux*
 
-📌 vendredi 3 juillet -  Concert LUM.  
-📌 mardi 7 juillet -  Gratiféria et Danse intuitive.  
-📌 Vendredi 10 juillet -  Concert The cat’s Band.  
-📌 Mardi 4 août -  Concert Arnaud Delerue.  
-📌 Vendredi 7 août -  Nuit des étoiles  
-📌 Mardi 18 août -  Concert Blues in Aout OFF  
+### 🌿 Les ateliers
 
-🗓️ **Les ateliers**  
-📌 Jeudi 9 juillet -  Atelier Yoga avec Katleya  
+📌 Mardi 12 août — Initiation au Qi Gong
 
-🗓️ **Les temps forts inratables !!**  
-📌 le 3 juillet  – concert de LUM  
-📌 21 et 22 août – Blues in Août   
-📌 26 et 27 septembre – *Des Palettes Plein les Yeux*
+### 🌟 Les temps forts
 
----
-
-## 📲 Restez informé·e
-
-👉 Rejoignez le groupe WhatsApp de la Gazette pour suivre les événements. 
+📌 21 & 22 août — Blues in Août
+📌 26 & 27 septembre — Des Palettes Plein les Yeux
+📌 2 octobre — Fête de la Science 
