@@ -3,291 +3,339 @@ title: "Agenda"
 order: 2
 in_menu: true
 ---
-# 🌿 L'agenda de juillet de la Palette
+# 🌿 L'agenda de août de la Palette
 
-![Texte décrivant l'image]({% link images/5.png %})
-![Texte décrivant l'image]({% link images/6.png %})
+![Texte décrivant l'image]({% link images/7.png %})
+![Texte décrivant l'image]({% link images/8.png %})
 
 
 Découvrez ce qu'il se passe à La Palette cet été ☀️
 
 ---
 
-## 🎪 Les stages de cirque
+Bonjour à toutes et à tous,
 
-### 🤸 Stage d'initiation et de perfectionnement aux Arts du Cirque
+L'été bat son plein à La Palette ! 🌿
 
-Pendant les vacances, La Palette accueille deux semaines de stages pour les enfants, les adolescent·es et les adultes.
+Après un mois de juillet riche en concerts, spectacles, rencontres et moments de convivialité, nous poursuivons l'aventure avec un mois d'août placé sous le signe du partage, de la musique, de la découverte et du collectif.
 
-Au programme :
-🤸 Acrobatie et portés
-🤹 Jonglerie
-⚖️ Équilibre sur objets (fil, boule, rolla-bolla...)
-🎗️ Aériens selon les aptitudes de chacun·e
-
-Les stages sont animés par Luc, circassien depuis 30 ans et professeur de cirque depuis plus de 15 ans.
-
-📅 Deux semaines au choix :
-• du 6 au 10 juillet
-• du 3 au 7 août
-
-### Horaires
-
-👧 Enfants (6-9 ans)
-9h30 - 12h
-
-🧑‍🎤 Adolescent·es (10-15 ans)
-14h - 17h
-
-🧑 Adultes (16 ans et +)
-18h - 20h
-
-💶 Tarifs
-
-• Enfants : 90 € / semaine
-• Adolescent·es : 120 € / semaine
-• Adultes : 80 € / semaine
-
-Possibilité de participer à la journée (20 €).
-✨ 10 % de réduction pour une inscription aux deux semaines.
-
-📞 Renseignements : 06 89 87 38 04
+Que vous soyez fidèle de la Palette ou simplement curieux de découvrir le lieu, il y aura forcément une bonne raison de venir nous rendre visite.
 
 ---
 
-## 🌿 Les mardis et vendredis de la Palette
+## 🌸🌿 Les mardis et vendredis de la Palette 🌿🌸
 
 Chaque semaine, la Palette ouvre ses portes pour des soirées conviviales !
 
-🍻 Bar et petite restauration sur place chaque mardi et vendredi à partir de 18h.
+🍻 Bar et petite restauration sur place chaque mardi et vendredi à partir de 18h !
 
-Concerts, jeux, rencontres, spectacles... une proposition différente à chaque fois !
+Jeux, rencontres, spectacles, débats… une proposition différente à chaque fois !
+
+![Texte décrivant l'image]({% link images/741727276_1579115740482904_2518144239617142309_n.png.jpeg %})
 
 ---
 
-### 🗓️ Vendredi 3 juillet — 19h30
+### 🗓️ Mardi 4 août - 19h30
 
-💃 **Bal Folk avec LÜM**
+## Concert - spectacle de Arnaud Delerue
 
-Le 3 juillet, c'est Bal Trad à La Palette !
+Arnaud Delerue est pianiste-chanteur, auteur-compositeur-interprète du Nord de la France, dont le parcours artistique se joue à la croisée de la chanson, du café-théâtre et du piano-bar.
 
-LÜM, c'est trois musiciennes complices qui revisitent les musiques traditionnelles à danser. Violon, flûte traversière, accordéon, trois voix et quelques percussions nous embarquent dans un voyage entre Bretagne, Irlande, valses et compositions originales.
+Son répertoire, éclectique, couvre la variété française, la pop-rock, des standards internationaux, ainsi que ses compositions personnelles.
 
-🍻 Bar et restauration sur place
 💛 Prix libre
 
 ---
 
-### 🗓️ Mardi 7 juillet — 18h30
+### 🗓️ Vendredi 7 août - 19h
 
-🙌 **La Palette est à vous & rencontre bénévoles**
+## ✨ Nuit des Etoiles ✨
 
-Comme chaque mois, La Palette est à vous donne carte blanche à celles et ceux qui souhaitent proposer une soirée, un atelier ou une animation.
+Une soirée entre ciel, musique et curiosité 🌌🎶
 
-Cette soirée sera également l'occasion de rencontrer les bénévoles de La Palette.
+![Texte décrivant l'image]({% link images/751842562_1053898260826226_5495605953984426054_n.png-2.jpeg %})
 
-Que vous soyez futur·e bénévole, nouvel·le arrivant·e ou bénévole de longue date, venez échanger avec nous !
+# 📍 Au programme
+
+- 🕗 19h – Rencontre avec l’association Équinoxe
+- 👉 Discussions et échanges (accessibles aux enfants)
+  - Une sur les "mystères des éclipses"
+  - Une sur "le soleil"
+- 🎤 20h15 – Concert de Mademoiselle Claire
+  - Yukulélé et chansons
+- 🌌 22h – Observation du ciel
+  - À l’œil nu ou avec télescopes, partons à la recherche des étoiles... filantes !
+
+🎟️ Prix libre – Bar et petite restauration sur place
+
+💛 À vivre en famille ou entre ami·es
 
 ---
 
-### 🗓️ Vendredi 10 juillet — 20h
+### 🗓️ Mardi 11 août
 
-🎶 **Concert The Cat's Band**
+## Troc de fournitures scolaires - 16h
 
-The Cat's Band revisite avec humour et générosité les grands standards du jazz, du swing, de la bossa mais aussi des chansons françaises et internationales.
+## Scène ouverte - 18h
 
-Une soirée conviviale garantie !
+Échangez vos fournitures pour une rentrée sous les signes du partage et de la convivialité !
 
-🕕 Ouverture du bar à 18h
-🎵 Concert à 20h
+La Palette lance ses trocs. Régulièrement dans l’année, des moments d’échanges d’objets seront organisés : livres, plantes, jouets…
+
+Une manière durable de consommer, en offrant une seconde vie à ces objets et de faire des trouvailles, le tout dans une ambiance chaleureuse autour d’un DJ set, d’une part de gâteau ou d’un atelier.
+
+### Le principe
+
+Venez avec vos objets, propres, complets, en état de fonctionnement.
+
+Maximum 10 par personne.
+
+Présentez-les à l’accueil, on vous remet en échange des jetons, entre 1 et 3 en fonction de la « valeur » et de l’état d’usure de l’objet.
+
+Puis vos objets sont exposés.
+
+Vous pouvez « troquer » vos jetons contre d’autres objets ou en faire don à une personne.
+
+En ce mois d’août, et en préparation de la rentrée, on s’attaque aux fournitures scolaires et aux vêtements qui dorment dans nos placards !
+
+Le troc est précédé d’un atelier couture de 14h à 16h et suivi d’une scène ouverte, à partir de 18h.
+
+---
+
+### Hey Hey ! On se refait une scène ouverte ? 😄😄
+
+Vous connaissez maintenant le principe : nous accueillons tou.tes ceux et celles qui veulent partager leur(s) talent(s), se produire, et donner au public l'occasion de vivre plusieurs ambiances dans la même soirée.
+
+On y danse, on y rit, on y joue, et on en redemande !
+
+Si vous avez une envie folle de faire votre show, ou de vivre vos premiers tracs, appelez Franck au **06 40 71 82 53**.
+
+Quant à toi, public, on t'attend nombreux depuis le bar 🍟🍹🍻
+
+---
+
+### 🗓️ Vendredi 14 août - 18h - 22h
+
+## 🎤 Karaoké
+
+🎤 Que vous chantiez juste… ou avec beaucoup d’enthousiasme 😄
+
+En solo, en duo ou à plusieurs, venez pousser la chansonnette.
+
+---
+
+### 🗓️ Mardi 18 août - 20h
+
+## 🎶 Blues In Aout OFF
+
+# MANU SLIDE & L’ONYX
+
+Rencontre cross road, pacte d’un blues acoustique avec pour seul moyen une guitare slide et un harmonica.
+
+Tantôt plaintif ou joyeux, ces deux comparses vous content les émotions des années 30’ avec quelques échappées Hobos bien surprenantes.
+
 💛 Prix libre
 
 ---
 
-### 🗓️ Mardi 14 juillet — 21h
+### 🗓️ Mardi 25 août - 18h
 
-⚽ **Diffusion de la demi-finale de la Coupe du Monde**
+## 🎲 Soirée jeux
 
-La Palette est à vous !
+Comme chaque mardi, le bar de la Palette est ouvert.
 
-Nous installons le grand écran pour suivre ensemble la demi-finale de la Coupe du Monde.
-
-🍻 Bar et restauration dès 18h
-⚽ Match à 21h
+On sort les jeux de société et…. on joue !!
 
 ---
 
-### 🗓️ Vendredi 17 juillet — 20h
+### 🗓️ Vendredi 28 août - 16h
 
-🎶 **Concert Terrain Vague**
+## 👕 Troc de vêtements
 
-🎭 Les rendez-vous de La Palette
+## 🎧 DJ Guinguette
 
-Terrain Vague & Co est un collectif d'artistes autour de la chanson française.
+La Palette lance ses trocs.
 
-Le groupe mêle rock, électro et hip-hop avec des textes humanistes inspirés de la vie, de ses déceptions et de ses espoirs.
+Régulièrement dans l’année, des moments d’échanges d’objets seront organisés : livres, plantes, jouets…
 
-🕕 Ouverture du bar à 18h
-🎵 Concert à 20h
-💛 Prix libre
+Une manière durable de consommer, en offrant une seconde vie à ces objets et de faire des trouvailles, le tout dans une ambiance chaleureuse autour d’un DJ set, d’une part de gâteau ou d’un atelier.
 
----
+### Le principe
 
-### 🗓️ Mardi 21 juillet — 19h30
+Venez avec vos objets, propres, complets, en état de fonctionnement.
 
-🎸 **Rock en Stock - Monte le Son !**
+Maximum 10 par personne.
 
-Comme chaque année, La Palette accueille le OFF du festival Rock en Stock.
+Présentez-les à l’accueil, on vous remet en échange des jetons, entre 1 et 3 en fonction de la « valeur » et de l’état d’usure de l’objet.
 
-Deux concerts au programme :
+Puis vos objets sont exposés.
 
-🎤 Kayms
-🎶 Ripley
+Vous pouvez « troquer » vos jetons contre d’autres objets ou en faire don à une personne.
 
-Une belle soirée rock à partager ensemble !
-
-🍻 Bar et restauration sur place
-💛 Prix libre
+En ce mois d’août, et en préparation de la rentrée, on s’attaque aux fournitures scolaires et aux vêtements qui dorment dans nos placards !
 
 ---
 
-### 🗓️ Vendredi 24 juillet
+On fête la fin des vacances d’été avec un DJ guinguette.
 
-🎤 **Karaoké**
+Un collectif mixte basé à Amiens avec des esthétiques variées (abstract hip-hop, Hip-Hop, Downtempo, drum&bass, jungle, Club music, Worldmusic, afro-house, jusqu’au punk !!!!) débarque à La Palette.
 
-Que vous chantiez juste... ou avec beaucoup d'enthousiasme 😄
+L’Empyrean Crew fait encore monter les températures avec une ambiance aussi joyeusement dansante et festive qu'éclectique !
 
-En solo, en duo ou en groupe, venez partager une soirée pleine de bonne humeur.
+Issu de la culture Hip Hop et du deejaying depuis 25 ans, **Reazom** promet un Hip Hop groovy, une Bass Music énergique et gangsta, tandis que **DJ Bodégas** nous entraîne dans des « paso doble » caliente et exaltants !
 
----
+SK1 (solo rap) raconte l’insomnie, les joies, les peines, les balades nocturnes, les errances absurdes et les virées au bar.
 
-### 🗓️ Mardi 28 juillet
+Des ambiances qui se teintent volontiers d’électro, de dub et de trip-hop.
 
-🍺 **Bar d'été - Dégustation de bières**
+Il vient présenter son tout nouvel album **« Mauvais Sang »**, sorti en février 2026.
 
-Découverte des bières artisanales de la Brasserie Vent Sauvage.
 
-Une soirée pour découvrir des bières biologiques inspirées des styles historiques régionaux.
 
-💶 Prix libre (participation conseillée : 10 €)
+## 🌸🌿 Les ateliers et stages 🌿🌸
 
-📞 Réservation : 06 62 32 27 52
+### 🗓️ Mercredis 12 et 26 août - 10h30
 
----
+## 🪷 Initiation au Qi Gong
 
-### 🗓️ Vendredi 31 juillet
+Le Qi gong est une pratique traditionnelle chinoise qui vise à entretenir et à équilibrer l'énergie vitale appelée Qi.
 
-🎹 **Scène ouverte**
+Isabelle vous propose une séance de découverte du Qi gong de l'Oie Sauvage, avec des enchaînements de mouvements lents et quelques explications de base.
 
-On remet ça !
+Prévoyez des vêtements souples.
 
-Musique, chant, poésie, humour... la scène est ouverte à toutes les envies.
+🕙 10h30 — 12h
 
-Si vous souhaitez monter sur scène, contactez Franck au
-📞 06 40 71 82 53
-
-🍻 Bar et restauration sur place dès 18h.
-
----
-
-## 🌿 Les ateliers Bien-être 🌸
-
-### 🗓️ Jeudi 9 juillet — 10h30
-
-🌸 **Yoga avec Katleya**
-
-Séance en petit groupe, accessible à tous.
-
-💶 12 €
-
-📞 Réservation : 06 65 25 79 98
-
-Le prix ne doit pas être un frein.
-Possibilité de troc.
-
----
-
-### 🗓️ Mercredis 15 et 22 juillet — 10h30
-
-🪷 **Initiation au Qi Gong**
-
-Découverte du Qi Gong de l'Oie Sauvage avec Isabelle.
-
-Prévoir une tenue souple.
-
-🕙 10h30 à 12h
 💶 Prix libre
 
 📞 Réservation : 06 62 32 27 52
 
 ---
 
-### 🗓️ Samedi 4 juillet — 14h30
+### 🗓️ Mardi 11 août - à partir de 14h
 
-🎭 **Stage de théâtre d'impro**
+## 🧵 Atelier couture ! ✂️
 
-Envie de découvrir l'improvisation ?
+📅 Rendez-vous à 14h à La Palette pour un après-midi couture dans la bonne humeur !
 
-Un atelier spécialement conçu pour les débutant·es (18 ans et +).
+Au programme : confection de sacs, projets personnels et toutes vos envies créatives.
 
-Jeux, exercices, création d'histoires collectives et bonne humeur seront au rendez-vous.
+Que vous soyez débutant(e) ou déjà à l'aise avec une machine à coudre, chacun avance à son rythme dans une ambiance conviviale.
 
-👤 Animé par Mô.
-
-💶 10 €
-
----
-
-### 🗓️ Mercredi 1er et vendredi 3 juillet — 14h
-
-🧵 **Stage couture**
-
-Confection de sacs, projets personnels, découverte de la couture...
-
-Que vous soyez débutant·e ou confirmé·e, venez partager un après-midi créatif dans la bonne humeur.
+🪡 Venez avec vos idées, votre tissu si vous en avez, et l'envie de créer ensemble ! 💜
 
 ---
 
 ## 🤝 Faire collectif 🤝
 
-### 🗓️ Du 3 au 7 juillet
+### 🗓️ Du 31 juillet au 4 août
 
-🛠️ **Chantier participatif**
+## 🛠️ Chantier participatif à La Palette
 
-La future épicerie continue de prendre forme !
+La Palette a lancé une série de 3 chantiers participatifs !
 
-Au programme :
-• nettoyage du local
-• traitement des bois
-• pose des rayonnages
-• poursuite des travaux selon l'avancement.
+**Objectif :**
+Mise en service du local dit « le moulin » pour en faire un espace vente de paniers garnis / épicerie bio.
 
-Nous avons besoin de toutes les bonnes volontés !
+Les 1ère et 2ème périodes ont permis, par un travail très efficace des bénévoles présents, d'aller au-delà des buts fixés.
 
-📞 Luc : 06 89 87 38 04
+### Voici le programme détaillé pour le chantier du 31 juillet au 4 août
+
+#### Moulin
+
+- Nettoyage sol haute pression
+- Lait de chaux sur les murs
+- Montage rayonnages
+
+#### Cirque
+
+- Poser les anneaux d'ancrage
+
+#### Façade Hangar
+
+- Pose des fixations hautes
+- Pose des câbles
+- Pose et fixation des bâches
+
+#### Jardin
+
+- Délimitation du 1er potager
+- Construction de l'aire en palettes
+
+Grand nettoyage et rangement du hangar pour accueillir Blues in Aout dans de bonnes conditions.
+
+Encore un programme fourni mais plusieurs activités possibles en parallèle.
+
+A vos marques, prêts ? Partez !
+
+📞 Si vous pensez être présent, merci de contacter Luc au **06 89 87 38 04**.
 
 ---
 
-## 📅 À vos agendas
+### 🗓️ Vendredi 28 août
+
+## 🤝 Le RDV des bénévoles
+
+Nous organisons un temps d'information et d'échanges sur le bénévolat à La Palette.
+
+On reprendra les bases ensemble et grâce à vos retours d'expérience, on améliorera les points à améliorer.
+
+Que vous soyez futur.e bénévole, nouveau bénévole ou bénévole chevronné, ce temps est pour vous !!
+
+---
+
+## 🎶 La Palette accueille le festival Blues in’Aout
+
+![Texte décrivant l'image]({% link images/727642108_10237992207858305_3400505909403051637_n.jpg %})
+
+Après le concert OFF du 18 août avec **Manu Slide & L'Onyx**, notre hangar accueillera les **21 et 22 août** la programmation officielle du festival **Blues in(Août)**.
+
+Mettre notre lieu à disposition pour des événements culturels fait pleinement partie de notre projet. C'est une manière de soutenir les initiatives du territoire, de favoriser les rencontres et de faire vivre la culture en milieu rural.
+
+Accueillir des événements culturels fait partie de l'ADN de La Palette. Nous sommes heureux d'ouvrir notre lieu à ce festival emblématique du territoire et de contribuer, à notre manière, à faire vivre la culture en milieu rural.
+
+👉 Rdv sur **Bluesinspirit.fr** pour réserver vos places !
+
+---
+
+# 📅 A VOS AGENDAS
 
 La Palette est ouverte tous les mardis et vendredis à partir de 18h 🍻
 
-Le programme se construit au fil des envies, mais vous pouvez déjà noter :
+Le programme se construit au fur et à mesure des envies de chacun·e, mais vous pouvez d’ores et déjà bloquer ces dates dans votre agenda ! 🗓️
 
-### 🎶 À venir
+---
 
-📌 Mardi 4 août — Concert Arnaud Delerue
-📌 Vendredi 7 août — Nuit des étoiles
-📌 Mardi 18 août — Blues in Août OFF
-📌 Vendredi 28 août — Soirée DJ
-📌 Vendredi 25 septembre — Lectures théâtralisées *En attendant mieux*
+## 🗓️ Mardis et vendredis
 
-### 🌿 Les ateliers
+📌 **Vendredi 4 septembre** – *Martha prend la place*  
+Par la Compagnie des Chiennes Savantes – dans le cadre du dispositif **Plaines d’été** de la DRAC.
 
-📌 Mardi 12 août — Initiation au Qi Gong
+📌 **Vendredi 25 septembre** – *Lectures théâtralisées « En attendant mieux »*  
+Collectif Echardes.
 
-### 🌟 Les temps forts
+📌 **Vendredi 16 octobre** – *Lecture-spectacle « Sexe, cuisine et indépendance »*
 
-📌 21 & 22 août — Blues in Août
-📌 26 & 27 septembre — Des Palettes Plein les Yeux
-📌 2 octobre — Fête de la Science 
+---
+
+## 🌿 Les ateliers
+
+📌 **Jeudis 10 et 24 septembre** – Ateliers Yoga par Katleya.
+
+---
+
+## 🚑 Les formations
+
+📌 **Samedi 3 octobre** – Formation premiers secours.
+
+📞 Informations et renseignements : **06 62 32 27 52**
+
+---
+
+## 🌟 Les temps forts incontournables
+
+📌 **11 septembre** – AG de l’association.
+
+📌 **26 et 27 septembre** – Des Palettes Plein les Yeux.
+
+📌 **2 octobre** – Fête de la Science – Les portes toujours ouvertes des Tiers Lieux. 
