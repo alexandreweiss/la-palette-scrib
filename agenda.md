@@ -53,8 +53,6 @@ Son répertoire, éclectique, couvre la variété française, la pop-rock, des s
 
 Une soirée entre ciel, musique et curiosité 🌌🎶
 
-![Texte décrivant l'image]({% link images/751842562_1053898260826226_5495605953984426054_n.png-2.jpeg %})
-
 # 📍 Au programme
 
 - 🕗 19h – Rencontre avec l’association Équinoxe
