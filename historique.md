@@ -1,7 +1,7 @@
 ---
 title: "Historique"
 order: 5
-in_menu: true
+in_menu: false
 ---
 La mémoire de notre lieu ...
 
