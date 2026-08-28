@@ -8,7 +8,7 @@ in_menu: true
 
 **Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazette-3773" target="_blank">c'est dans la newsletter</a>
 <br>
-![Logo La Palette]({% link images/palette-logo-noir-rectangle.png %})
+![Texte décrivant l'image]({% link images/Logo définitif grand public couleurs.png %})
 <br>
 
 La Palette - 3 route de Frencq - 62630 Longvilliers
