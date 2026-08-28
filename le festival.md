@@ -1,5 +1,5 @@
 ---
-title: "Les Festival"
+title: "Le Festival"
 order: 3
 in_menu: true
 ---
