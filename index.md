@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "La Palette"
 order: 1
 in_menu: true
 ---
@@ -9,7 +9,7 @@ in_menu: true
 **Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazette-3905" target="_blank">c'est dans la newsletter</a>
 <br>
 
-<img src="![Texte décrivant l'image]({% link images/Logo définitif grand public couleurs - copie.png %})" width="250">
+<img src="![Texte décrivant l'image]({% link images/Logo définitif grand public couleurs.png %})" width="250">
 
 La Palette - 3 route de Frencq - 62630 Longvilliers
 
