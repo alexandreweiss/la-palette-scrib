@@ -6,7 +6,7 @@ in_menu: true
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v23.0"></script>
 
-**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazette-3773" target="_blank">c'est dans la newsletter</a>
+**Le détail des événements à venir** <a href="https://mailchi.mp/lapalette.org/lagazette-3905" target="_blank">c'est dans la newsletter</a>
 <br>
 
 <img src="![Texte décrivant l'image]({% link images/Logo définitif grand public couleurs - copie.png %})" width="250">
