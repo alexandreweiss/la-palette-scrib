@@ -6,48 +6,85 @@ in_menu: true
 ![Texte décrivant l'image]({% link images/palette affiche finale jpg.jpg %}) 
 
 
-🤩 RDV les 26 & 27 septembre pour Des Palettes Plein Les Yeux #4 !
-Un week-end de spectacles, ateliers, musique, rires & découvertes pour petits et grands 💛
+# 🤩 Des Palettes Plein Les Yeux #4
 
-Dans le cadre du dispositif Jardins en scène de la région Haut de France. 
+# 26 & 27 septembre 2026
 
+**Un week-end de spectacles, d’ateliers, de musique, de rires et de découvertes pour petits et grands 💛**
 
+> Dans le cadre du dispositif **Jardins en scène** de la Région Hauts-de-France.
 
-📅 SAMEDI 27 septembre
-* à partir de 15h – La Chuchoteuse – Cie Fais le Moi Même
- – Impromptu tout public
-*15h – Anarchie In Uk 
- – Concert déambulatoire
-*17h – Femmes au volant – BSide Company
-- Femmes au volant. Mort au tournant. Très drôle !  – Tout public
-*19h – Badass – Cie Fais le Moi-Même
-- Chorale de meufs
-*20h – Fluo Sauvage
-- Concert -  Tout public
-*22h – DJ Set 
+---
 
+# 📅 SAMEDI 26 SEPTEMBRE
 
-📅 DIMANCHE 28 septembre
-* 10h – Ateliers de trapèze ballant - Bside Company
-- Sur réservation
-* 11h – Chorale sauvage - Cie Fais le Moi Même
-- Sur réservation
-* à partir de 14h30 – Compagnie du haut
-- Impromptus dansés
-*15h – Maintenant il faut dormir -Collectif les surpeuplées
-- Duo de King Calin – Tout public
-*16h - Les cousines machines
-- Concert théâtralisé
+# 15h · La Chuchoteuse
+*Cie Fais-le-Moi-Même*  
+Impromptu tout public
 
-🌟 TOUT LE WEEK-END
-* 🎨 Exposition de Maxime Arnault
-* 🍻🥙 Bar et restauration sur place 
+# 16h & 18h · Anarchie In Uk
+Concert déambulatoire
 
-👉 Spectacles et ateliers gratuits 
-Participation libre pour ceux qui le souhaitent
+# 17h · Femmes au volant
+*B-Side Company*  
 
+Femmes au volant. Mort au tournant. Très drôle ! 
+Tout public
 
+# 19h · Badass
+*Cie Fais-le-Moi-Même*  
+Chorale de meufs
 
-💛 A samedi ! 
+# 20h · Fluo Sauvage
+Danse Floor endiablé · Tout public
 
-📍 3 route de Frencq – 62630 Longvilliers 
+---
+
+# 📅 DIMANCHE 27 SEPTEMBRE
+
+# 10h · Ateliers de trapèze ballant
+*B-Side Company*  
+
+**Sur réservation**
+
+# 11h · Chorale sauvage
+*Cie Fais-le-Moi-Même*  
+
+**Sur réservation**
+
+# 14h · Carte blanche autour du spectacle
+**« Un désir démesuré d’amitié »**
+
+*Création 2027 · Cie du Haut*  
+30 min · Danse contemporaine
+
+# 15h · Maintenant il faut dormir
+*Collectif Les Surpeuplées*  
+Duo de King Calin · Tout public
+
+# 16h · Les Cousines Machines
+Concert théâtralisé
+
+---
+
+# 🌟 TOUT LE WEEK-END
+
+🎨 **Exposition de Maxime Arnault**
+
+🍻🥙 **Bar et restauration sur place**
+
+---
+
+# 🎟️ SPECTACLES & ATELIERS GRATUITS
+
+Tous les spectacles et ateliers sont **gratuits**.
+
+**Participation libre** pour celles et ceux qui souhaitent soutenir La Palette.
+
+---
+
+# 💛 À samedi !
+
+📍 **La Palette**  
+3 route de Frencq  
+62630 Longvilliers 
