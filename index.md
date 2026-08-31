@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 0
+order: 1
 in_menu: true
 ---
 <div id="fb-root"></div>
