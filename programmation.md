@@ -1,5 +1,5 @@
 ---
-title: "Agenda"
+title: "Programmation"
 order: 2
 in_menu: true
 ---
