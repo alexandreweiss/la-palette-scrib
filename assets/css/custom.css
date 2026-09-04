@@ -1,3 +1,16 @@
 :root {
-    --couleur-primaire : #fefaf3;
+    /* Fond principal */
+    --couleur-primaire: #fefaf3;
+
+    /* Couleurs La Palette */
+    --turquoise: #6AAE96;
+    --vert: #C2CB96;
+    --jaune: #F9DC24;
+    --orange: #F48828;
+    --rose: #FF7069;
+    --rouge: #D4615C;
+    --violet: #6B47A9;
+
+    /* Texte */
+    --texte: #29252D;
 }
