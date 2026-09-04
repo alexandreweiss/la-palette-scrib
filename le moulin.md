@@ -1,5 +1,5 @@
 ---
 title: "Le Moulin"
 order: 5
-in_menu: true
+in_menu: false
 ---
