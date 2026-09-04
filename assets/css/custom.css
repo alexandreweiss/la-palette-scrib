@@ -13,4 +13,18 @@
 
     /* Texte */
     --texte: #29252D;
+
+a {
+    display: inline-block;
+    background-color: #6B47A9;
+    color: #ffffff;
+    padding: 14px 28px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+a:hover {
+    opacity: 0.85;
 }
