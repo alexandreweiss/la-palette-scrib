@@ -14,17 +14,25 @@
     /* Texte */
     --texte: #29252D;
 
-a {
-    display: inline-block;
+a[href="https://claire9748.wixsite.com/my-site-4"] {
+    display: block;
+    width: fit-content;
+    margin: 35px auto 45px auto;
+
     background-color: #6B47A9;
-    color: #ffffff;
-    padding: 14px 28px;
-    border-radius: 30px;
-    text-decoration: none;
+    color: #FFFFFF !important;
+
+    padding: 20px 40px;
+    border-radius: 40px;
+
+    font-size: 26px;
     font-weight: bold;
-    margin-top: 20px;
+    text-decoration: none !important;
+    text-align: center;
+
+    box-sizing: border-box;
 }
 
-a:hover {
+a[href="https://claire9748.wixsite.com/my-site-4"]:hover {
     opacity: 0.85;
 }
