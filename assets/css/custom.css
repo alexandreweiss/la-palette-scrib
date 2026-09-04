@@ -13,42 +13,39 @@
 
     /* Texte */
     --texte: #29252D;
-
-a[href="https://claire9748.wixsite.com/my-site-4"] {
-    display: block;
-    width: max-content;
-    margin: 25px auto 45px auto;
-
-    background-color: #6B47A9;
-    color: #FFFFFF !important;
-
-    padding: 16px 34px;
-    border-radius: 40px;
-
-    font-size: 23px;
-    font-weight: bold;
-    text-decoration: none !important;
-    text-align: center;
 }
 
+
+/* Logo */
 img {
-    display: block;
-    max-width: 80%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    display: block !important;
+    width: 70% !important;
+    max-width: 70% !important;
+    height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
-a[href="https://claire9748.wixsite.com/my-site-4/des-palettes-plein-les-yeux"] {
-    display: block;
-    width: max-content;
-    margin: 35px auto 45px auto;
-    background-color: #6B47A9;
+
+/* Boutons vers le nouveau site */
+a[href*="claire9748.wixsite.com/my-site-4"] {
+    display: block !important;
+    width: fit-content !important;
+    margin: 30px auto 45px auto !important;
+
+    background-color: #6B47A9 !important;
     color: #FFFFFF !important;
-    padding: 16px 34px;
-    border-radius: 40px;
-    font-size: 23px;
-    font-weight: bold;
+
+    padding: 16px 34px !important;
+    border-radius: 40px !important;
+
+    font-size: 23px !important;
+    font-weight: bold !important;
     text-decoration: none !important;
-    text-align: center;
+    text-align: center !important;
+}
+
+
+a[href*="claire9748.wixsite.com/my-site-4"]:hover {
+    opacity: 0.85;
 }
