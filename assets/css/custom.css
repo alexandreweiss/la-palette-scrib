@@ -49,3 +49,11 @@ a[href*="claire9748.wixsite.com/my-site-4"] {
 a[href*="claire9748.wixsite.com/my-site-4"]:hover {
     opacity: 0.85;
 }
+
+img[alt="Texte décrivant l'image"] {
+    width: 70% !important;
+    max-width: 70% !important;
+    height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
